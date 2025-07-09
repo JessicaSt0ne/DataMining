@@ -1,0 +1,1562 @@
+{
+    "14367_Semi_Supervised_Sparse_G": {
+        "public_EthicsGuidelines": [
+            "neurips",
+            "https://neurips.cc/public/EthicsGuidelines",
+            "该链接“https://neurips.cc/public/EthicsGuidelines”指向的是NeurIPS会议的伦理准则页面，旨在指导研究人员在进行机器学习和人工智能研究时遵守道德规范和社会责任。"
+        ],
+        "nips": [
+            "nips",
+            "https://nips.cc/",
+            "该链接指向的数据集“nips”大致用于支持NeurIPS论文中的实验 reproducibility，通常包含用于机器学习研究的原始数据、预处理数据和生成数据，旨在帮助验证和复现论文结果。"
+        ]
+    },
+    "1243_Open_ended_VQA_benchmarki": {
+        "10.18653_v1_2022.emnlp-main.20": [
+            "dx",
+            "http://dx.doi.org/10.18653/v1/2022.emnlp-main.20",
+            "该链接指向的数据集“10.18653/v1/2022.emnlp-main.20”用于超越传统问答评估中基于词面匹配的方法，提出更灵活的答案等价性评估机制，以更准确地衡量问答系统的表现。"
+        ],
+        "ovqa": [
+            "git",
+            "https://github.com/lmb-freiburg/ovqa",
+            "“ovqa” 是一个用于评估视觉-语言模型的新型开放式视觉问答（VQA）基准，基于图像分类数据集构建，并利用语义层级生成问题，以更细致地评估模型的文本生成能力。"
+        ]
+    },
+    "16093_Questioning_the_Survey_R": {
+        "data_developers_about_terms-of-service.html": [
+            "www",
+            "https://www.census.gov/data/developers/about/terms-of-service.html",
+            "这个链接指向的是美国人口普查局提供的开发者使用数据的服务条款页面，用于说明使用其数据接口和微数据时必须遵守的规定和限制。"
+        ],
+        "programs-surveys_acs_microdata.html": [
+            "www",
+            "https://www.census.gov/programs-surveys/acs/microdata.html",
+            "链接指向的数据集“programs-surveys_acs_microdata.html”是美国社区调查（American Community Survey, ACS）的微观数据，主要用于提供关于美国人口和住房的详细统计信息。"
+        ],
+        "dolly": [
+            "git",
+            "https://github.com/databrickslabs/dolly",
+            "“Dolly”是一个由Databricks发布的开源大型语言模型数据集，用于训练类似ChatGPT的指令跟随模型。"
+        ],
+        "surveying-language-models": [
+            "git",
+            "https://github.com/socialfoundations/surveying-language-models",
+            "该链接指向的数据集“surveying-language-models”用于评估语言模型在处理调查问卷类任务时的行为与偏差。"
+        ],
+        "prompt-ablations": [
+            "git",
+            "https://github.com/socialfoundations/surveying-language-models/blob/main/prompt-ablations",
+            "这个链接指向的数据集“prompt-ablations”用于研究和比较不同提示（prompt）风格对语言模型（如GPT-4）在回答调查问卷时表现的影响。"
+        ],
+        "data-center_2016-time-series-study": [
+            "electionstudies",
+            "https://electionstudies.org/data-center/2016-time-series-study/",
+            "该链接指向的数据集是2016年美国国家选举研究（ANES）时间序列研究，主要用于收集和分析美国选民在总统大选期间的政治态度、行为和人口统计信息。"
+        ],
+        "opinions_qa": [
+            "git",
+            "https://github.com/tatsu-lab/opinions_qa",
+            "这个链接指向的数据集“opinions_qa”是一个用于研究语言模型在面对主观性问题（如社会或政治态度调查）时回答行为的数据集。"
+        ],
+        "public_EthicsGuidelines": [
+            "neurips",
+            "https://neurips.cc/public/EthicsGuidelines",
+            "该链接指向的“public_EthicsGuidelines”是 NeurIPS 官方发布的伦理准则文档，用于指导研究人员在进行科学研究和论文发表时遵守道德规范。"
+        ],
+        "llm_global_opinions": [
+            "huggingface",
+            "https://huggingface.co/datasets/Anthropic/llm_global_opinions",
+            "该数据集“llm_global_opinions”用于评估大型语言模型在全球范围内对公众意见调查问题的回答与真实人类回应之间的相似性。"
+        ],
+        "pu": [
+            "nips",
+            "https://nips.cc/pu",
+            "该链接中的“pu”可能指的是“positive-unlabeled (PU) learning”相关的数据集，用于在只有正类和未标注数据的情况下训练分类模型。"
+        ]
+    },
+    "1811_TravelPlanner_A_Benchmark": {
+        "yusu": [
+            "yusu",
+            "https://yusu.substack",
+            "该链接（https://yusu.substack.com/p/language-agents）指向的是作者Y. Su关于“Language Agents”的一篇文章，介绍了语言智能体在人工智能发展中的作用，不是一个传统意义上的数据集。\n\n一句话描述：该链接内容是关于语言智能体在AI中的关键角色的讨论文章，而非具体数据集。"
+        ],
+        "lilianweng": [
+            "lilianweng",
+            "https://lilianweng",
+            "该链接指向的“lilianweng”页面介绍了基于大语言模型（LLM）的自主智能体（Autonomous Agents），其内容主要是关于如何构建、运行和评估由LLM驱动的多步推理和行动系统。  \n\n简要描述：该数据集/资源是关于利用大语言模型构建自主智能体系统的教程和研究综述。"
+        ],
+        "flight-delay-dataset-20182022": [
+            "kaggle",
+            "https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022?select=Combined_Flights_2022",
+            "该数据集“flight-delay-dataset-20182022”包含2018至2022年间航班的历史数据，用于分析和预测航班延误情况。"
+        ],
+        "zomato-restaurants-data": [
+            "kaggle",
+            "https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data",
+            "链接指向的 “zomato-restaurants-data” 数据集包含印度各城市餐厅的相关信息，如名称、位置、菜系、评分和价格等，常用于餐饮推荐和地理信息分析任务。"
+        ],
+        "": [
+            "git",
+            "https://github.com/",
+            "该链接（https://github.com/Significant-Gravitas/AutoGPT）指向的是AutoGPT项目，它是一个基于大语言模型的自动化代理系统，用于执行复杂的任务规划和执行。简要描述：AutoGPT是一个利用大语言模型自动执行多步任务的开源代理系统。"
+        ],
+        "airbnbopendata": [
+            "kaggle",
+            "https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata",
+            "该链接指向的“airbnbopendata”数据集大致包含来自Airbnb平台的房源信息，用于分析短期租赁市场的趋势与特征。"
+        ],
+        "maps_documentation_distance-matrix_overview": [
+            "developers",
+            "https://developers.google.com/maps/documentation/distance-matrix/overview?hl=en",
+            "该链接指向的“maps_documentation_distance-matrix_overview”数据集是 Google Maps 的距离矩阵 API 文档，用于计算多个起点和终点之间的行驶距离和预计时间。"
+        ],
+        "maps_documentation_places_web-service_overview": [
+            "developers",
+            "https://developers.google.com/maps/documentation/places/web-service/overview?hl=en",
+            "该链接指向的是 Google Places API 的文档页面，提供有关如何使用该服务获取地点的详细信息，如商家名称、地址、评分等。"
+        ]
+    },
+    "18682_Evaluating_the_World_Mod": {
+        "manhattan-reconstruction-shortest": [
+            "manhattan-reconstruction-shortest",
+            "https://manhattan-reconstruction-shortest.netlify.app/",
+            "这个链接指向的数据集“manhattan-reconstruction-shortest”大致用于基于最短路径训练的 transformer 模型对曼哈顿街区图进行重建，可视化真实图边和模型预测边的对比。"
+        ],
+        "manhattan-reconstruction-noisy": [
+            "manhattan-reconstruction-noisy",
+            "https://manhattan-reconstruction-noisy",
+            "该链接指向的数据集“manhattan-reconstruction-noisy”大致用于展示通过 transformer 在带噪声的最短路径数据上训练后重建出的曼哈顿地图。"
+        ],
+        "datasets": [
+            "kaggle",
+            "https://www.kaggle.com/datasets/",
+            "这个链接指向的数据集是关于2014年纽约市出租车行程的记录数据，包括每次乘车的起止时间、地点、费用等信息。简要描述如下：\n\n这是一个包含2014年纽约市出租车行程详细信息的交通行为数据集。"
+        ],
+        "nips": [
+            "nips",
+            "https://nips.cc/",
+            "该链接指向的数据集“nips”包含处理过的出租车行程数据，主要用于分析和建模与出租车出行相关的问题，如交通流量预测、路径规划或城市出行模式研究。"
+        ],
+        "world-model-evaluation": [
+            "git",
+            "https://github.com/keyonvafa/world-model-evaluation",
+            "该链接指向的数据集“world-model-evaluation”用于评估大型语言模型在缺乏一致世界模型的情况下执行规划与路径寻找等任务的能力。"
+        ],
+        "public_guides_CodeSubmissionPolicy": [
+            "nips",
+            "https://nips.cc/public/guides/CodeSubmissionPolicy",
+            "这个链接指向的是NeurIPS会议关于代码和数据提交政策的页面，主要用于指导作者如何规范地提交代码和数据以支持论文复现。"
+        ],
+        "manhattan-reconstruction-random": [
+            "manhattan-reconstruction-random",
+            "https://manhattan-reconstruction-random.netlify.app/",
+            "该数据集“manhattan-reconstruction-random”大致用于基于随机游走训练的Transformer模型重建曼哈顿地图。"
+        ],
+        "public_EthicsGuidelines": [
+            "neurips",
+            "https://neurips.cc/public/EthicsGuidelines",
+            "该链接“https://neurips.cc/public/EthicsGuidelines”指向的是NeurIPS会议的伦理准则页面，该页面用于指导作者在研究过程中遵守伦理规范和负责任的科研实践。"
+        ]
+    },
+    "19989_Foundations_of_Multivari": {
+        "public_EthicsGuidelines": [
+            "neurips",
+            "https://neurips.cc/public/EthicsGuidelines",
+            "链接中的“public_EthicsGuidelines”指向的是 NeurIPS（神经信息处理系统会议）发布的伦理准则文档，该文档用于指导研究人员在科研过程中遵守伦理规范。"
+        ]
+    },
+    "19782_Chain_of_Agents_Large_La": {
+        "public_EthicsGuidelines": [
+            "neurips",
+            "https://neurips.cc/public/EthicsGuidelines",
+            "该链接指向的“public_EthicsGuidelines”是 NeurIPS（神经信息处理系统会议）发布的道德准则文档，旨在指导研究者在提交论文时遵循伦理规范。"
+        ],
+        "model-garden": [
+            "cloud",
+            "https://cloud.google.com/model-garden",
+            "链接中的“model-garden”是 Google 提供的一个平台，用于共享和部署机器学习模型。简要描述如下：\n\nModel Garden 是一个由 Google 提供的平台，用于展示、管理和部署预训练的机器学习模型，支持多种任务和框架。"
+        ],
+        "huggingface": [
+            "huggingface",
+            "https://huggingface.co/",
+            "Huggingface 是一个提供预训练自然语言处理模型和数据集的开放平台，广泛用于机器学习任务如文本分类、问答和语言生成。"
+        ]
+    },
+    "20326_AutoMix_Automatically_Mi": {
+        "pricing": [
+            "openai",
+            "https://openai.com/pricing",
+            "该链接指向的是 OpenAI 和 Together AI 的定价页面，主要用于查看和比较不同语言模型（如 SLM 和 LLM）的调用成本。"
+        ],
+        "api": [
+            "api",
+            "https://api.semanticscholar",
+            "这些链接中的 \"api.semanticscholar.org/CorpusID\" 是 Semantic Scholar 提供的 API 接口，用于访问特定论文的元数据和相关信息；它们并不直接指向数据集本身，而是用于获取与论文相关的数据资源。"
+        ],
+        "www": [
+            "www",
+            "https://www",
+            "该链接 \"https://www.sciencedirect.com/science/article/pii/S000437029800023X\" 指向的是一篇关于“在部分可观测随机域中进行规划与行动”的经典人工智能论文，提出了POMDP（部分可观测马尔可夫决策过程）模型，用于描述和求解在不完全信息环境下的智能体决策问题。该研究为后续强化学习和智能体规划方法奠定了理论基础。\n\n简要描述：该论文提出了POMDP模型，用于在不完全可观测环境中进行规划与决策。"
+        ],
+        "10.1016_S0004-3702(98": [
+            "doi",
+            "https://doi.org/10.1016/S0004-3702(98",
+            "该链接对应的数据集来自论文《Planning and Acting in Partially Observable Stochastic Domains》，主要研究在部分可观测随机环境中进行智能体规划与决策的问题，是强化学习和POMDP（部分可观测马尔可夫决策过程）领域的经典工作。  \n\n一句话描述：该数据集用于研究在不完全信息下智能体如何进行规划和决策，是POMDP模型的基础参考资料。"
+        ],
+        "together": [
+            "together",
+            "https://together.ai/",
+            "该链接（https://together.ai）指向的是 Together AI 平台，该平台提供开源大语言模型的托管与推理服务，支持用户以较低成本访问和部署各类预训练模型。"
+        ],
+        "2022": [
+            "aclanthology",
+            "https://aclanthology.org/2022",
+            "该链接指向的数据集“2022”出自论文《SCROLLS: Standardized CompaRison over Long Language Sequences》，它是一个用于评估模型在长文本理解任务中表现的标准化基准数据集。"
+        ],
+        "CorpusID:64853900": [
+            "api",
+            "https://api.semanticscholar.org/CorpusID:64853900",
+            "链接 https://api.semanticscholar.org/CorpusID:64853900 指向的论文是 Wilko Schwarting 等人在 2018 年发表的《Planning and decision-making for autonomous vehicles》，因此该数据集“CorpusID:64853900”大致与自动驾驶车辆的规划与决策相关，可能涉及导航、路径规划或自动驾驶系统的行为建模。\n\n一句话描述：  \n该数据集主要用于研究自动驾驶车辆在复杂环境中的规划与决策问题。"
+        ],
+        "coqa": [
+            "stanfordnlp",
+            "https://stanfordnlp.github.io/coqa/",
+            "COQA（Conversational Question Answering）是一个用于对话式问答的英语数据集，旨在评估模型在多轮对话中进行上下文理解和回答问题的能力。"
+        ],
+        "forum": [
+            "openreview",
+            "https://openreview.net/forum?id=0zvTBoQb5PA",
+            "该链接（https://openreview.net/forum?id=0zvTBoQb5PA）指向的是一篇关于POMDPs（部分可观测马尔可夫决策过程）搜索算法的论文页面，“forum”是OpenReview平台上的论文讨论页面，用于展示论文内容、接受社区评论与审稿反馈。\n\n简要描述：  \n“forum”链接指向的是OpenReview平台上的论文讨论页面，用于展示、评审和讨论学术论文。"
+        ],
+        "CorpusID:259075212": [
+            "api",
+            "https://api.semanticscholar.org/CorpusID:259075212",
+            "该链接指向的数据集“CorpusID:259075212”与论文《On optimal caching and model multiplexing for large model inference》相关，主要用于研究在大模型推理过程中如何通过最优缓存与模型复用策略提升推理效率和资源利用率。\n\n一句话描述：  \n该数据集用于支持大语言模型推理中关于最优缓存和模型复用策略的研究。"
+        ],
+        "public_EthicsGuidelines": [
+            "neurips",
+            "https://neurips.cc/public/EthicsGuidelines",
+            "该链接指向的数据集“public_EthicsGuidelines”大致是用于展示和指导NeurIPS会议关于研究伦理的准则。"
+        ],
+        "nips": [
+            "nips",
+            "https://nips.cc/",
+            "该链接指向的“nips”数据集大致与NeurIPS会议的论文、代码和数据提交政策相关，主要用于学术研究中代码与数据的公开与复现支持。"
+        ],
+        "meta-llama_Llama-2-13b-hf": [
+            "huggingface",
+            "https://huggingface.co/meta-llama/Llama-2-13b-hf",
+            "链接中的数据集“meta-llama/Llama-2-13b-hf”是一个由Meta发布的大型语言模型，主要用于自然语言处理任务，如文本生成、问答和推理。"
+        ]
+    },
+    "20576_GREATS_Online_Selection_": {
+        "skylion007": [
+            "skylion007",
+            "http://Skylion007.github.io/",
+            "“Skylion007”链接指向的数据集是“OpenWebText Corpus”，它是一个开源的、高质量的文本语料库，用于训练大型语言模型，旨在复现OpenAI的WebText数据集。"
+        ],
+        "GREATS": [
+            "git",
+            "https://github.com/Jiachen-T-Wang/GREATS",
+            "“GREATS”是一个用于在线数据批次选择的代码库，旨在通过泰勒展开近似和贪心算法，在大规模语言模型训练中动态选择高质量训练数据，以加快收敛速度并提升泛化性能。"
+        ],
+        "stanford_alpaca": [
+            "git",
+            "https://github.com/tatsu-lab/stanford_alpaca",
+            "“stanford_alpaca” 是一个由斯坦福大学发布的指令微调数据集，用于训练大语言模型更好地理解和执行自然语言指令。"
+        ],
+        "LESS": [
+            "git",
+            "https://github.com/princeton-nlp/LESS",
+            "该链接指向的“LESS”数据集和代码库主要用于低资源语言上的语言模型评估任务，旨在评估多任务多语言学习中的模型泛化能力。"
+        ],
+        "nips": [
+            "nips",
+            "https://nips.cc/",
+            "“nips”链接指向的是 NeurIPS（神经信息处理系统大会）的代码和数据提交政策页面，主要用于指导作者如何提交与论文相关的代码和数据，以便复现研究结果。"
+        ],
+        "torchtune": [
+            "git",
+            "https://github.com/pytorch/torchtune",
+            "Torchtune 是一个用于微调和训练大语言模型的 PyTorch 框架，旨在简化模型开发和实验流程。"
+        ],
+        "public_EthicsGuidelines": [
+            "neurips",
+            "https://neurips.cc/public/EthicsGuidelines",
+            "该链接指向的数据集“public_EthicsGuidelines”大致是NeurIPS（神经信息处理系统会议）发布的伦理准则，用于指导研究人员在进行科研工作时遵循伦理规范。"
+        ],
+        "nanoGPT": [
+            "git",
+            "https://github.com/karpathy/nanoGPT",
+            "“nanoGPT” 是一个轻量级的 GPT 模型训练代码库，主要用于训练和微调小规模的 Transformer 语言模型。"
+        ]
+    },
+    "2147_Latent_Trajectory_Learnin": {
+        "forum": [
+            "openreview",
+            "https://openreview.net/forum?id=w1UbdvWH_R3",
+            "该链接（https://openreview.net/forum?id=w1UbdvWH_R3）指向的是一篇关于“Neural Collapse under MSE Loss”的论文讨论页面，主要研究神经网络在均方误差损失函数下训练时表现出的“神经坍塌”现象。"
+        ],
+        "m5-forecasting-accuracy": [
+            "kaggle",
+            "https://kaggle.com/competitions/m5-forecasting-accuracy",
+            "该链接指向的“M5 Forecasting - Accuracy”数据集是一个用于评估时间序列预测模型准确性的竞赛数据集，主要涉及零售商品的销售预测任务。"
+        ],
+        "andrewmvd": [
+            "kaggle",
+            "https://www.kaggle.com/andrewmvd/",
+            "该链接指向的数据集“andrewmvd/ocular-disease-recognition-odir5k”是一个用于眼病识别的医学图像数据集，包含多种眼底图像及其对应的疾病标签，主要用于眼科疾病的计算机辅助诊断研究。"
+        ],
+        "SDE-EDG-official": [
+            "git",
+            "https://github.com/HardworkingPearl/SDE-EDG-official",
+            "该链接指向的数据集“SDE-EDG-official”主要用于研究和实现基于随机微分方程（SDE）的时间序列建模方法，特别关注在时间间隔不均或稀疏观测情况下的动态表示学习。"
+        ],
+        "index.php_AAAI_article_view_26320": [
+            "ojs",
+            "https://ojs.aaai.org/index.php/AAAI/article/view/26320",
+            "该链接指向的数据集“index.php_AAAI_article_view_26320”来自AAAI 2023会议的论文《Foresee what you will learn: Data augmentation for domain generalization in non-stationary environment》，该数据集主要用于研究非平稳环境下的领域泛化问题，通过数据增强方法提升模型在分布变化场景中的泛化能力。"
+        ]
+    },
+    "21559_Gorilla_Large_Language_M": {
+        "gorilla": [
+            "gorilla",
+            "https://gorilla.cs.berkeley.edu",
+            "该链接指向的数据集“gorilla”主要用于评估大型语言模型在调用和生成API代码方面的能力，特别是在结合检索系统以适应频繁更新的文档和API时的表现。"
+        ],
+        "blog_chatgpt": [
+            "openai",
+            "https://openai.com/blog/chatgpt",
+            "这个链接指向的数据集“blog_chatgpt”来自 OpenAI 发布的 ChatGPT 博客页面，主要用于展示 ChatGPT 模型的能力、对话示例及其在多种任务中的应用。"
+        ],
+        "openai": [
+            "openai",
+            "https://openai.com/",
+            "该链接指向的“OpenAI ChatGPT”数据集及相关资源主要用于支持和展示基于GPT模型的对话系统，其核心任务是通过人类反馈优化的大型语言模型，实现自然语言理解与生成能力的提升。"
+        ],
+        "google_openimages_v4_ssd_mobilenet_v2_1’": [
+            "tfhub",
+            "https://tfhub.dev/google/openimages_v4/ssd_mobilenet_v2/1’",
+            "该链接指向的数据集“google_openimages_v4_ssd_mobilenet_v2_1”是用于图像中物体检测（例如检测人、车、动物等）的预训练模型，基于 Open Images V4 数据集训练。"
+        ],
+        "public_EthicsGuidelines": [
+            "neurips",
+            "https://neurips.cc/public/EthicsGuidelines",
+            "该链接指向的“public_EthicsGuidelines”是NeurIPS发布的伦理准则文档，旨在指导研究人员在其研究中遵循伦理原则，确保研究的社会责任性和道德合规性。"
+        ]
+    },
+    "2682_Candidate_Label_Set_Pruni": {
+        "LAVIS": [
+            "git",
+            "https://github.com/salesforce/LAVIS",
+            "LAVIS 是一个由 Salesforce 提供的多模态学习库，用于处理图像与文本之间的视觉语言任务，如图文检索、图文匹配和图像字幕生成。"
+        ],
+        "faiss": [
+            "git",
+            "https://github.com/facebookresearch/faiss",
+            "Faiss 是一个用于高效相似度搜索和密集向量聚类的库，主要用于大规模向量数据的快速最近邻搜索。"
+        ],
+        "simclr": [
+            "git",
+            "https://github.com/google-research/simclr",
+            "该链接指向的“simclr”是一个用于无监督视觉表示学习的框架，主要通过对比学习方法训练图像特征提取模型。"
+        ]
+    },
+    "19475_Boosting_Alignment_for_P": {
+        "public_EthicsGuidelines": [
+            "neurips",
+            "https://neurips.cc/public/EthicsGuidelines",
+            "“public_EthicsGuidelines”链接指向的是 NeurIPS 的伦理准则页面，主要用于指导论文研究在道德和社会责任方面的合规性。"
+        ],
+        "": [
+            "git",
+            "https://github.com/",
+            "该链接（https://github.com/reds-lab/Restricted_gradient_diversity_unlearning.git）指向的是一个用于研究生成模型中“遗忘特定类别或概念”的代码库，主要用于在不显著影响模型整体性能的前提下，从文本到图像的生成模型中移除特定内容。"
+        ]
+    },
+    "13457_Identification_and_Estim": {
+        "web_packages_sisVIVE": [
+            "cran",
+            "https://cran.r-project.org/web/packages/sisVIVE/",
+            "“web/packages/sisVIVE” 链接指向的是 R 语言中的 sisVIVE 软件包，它用于在存在无效工具变量的情况下进行工具变量估计。"
+        ],
+        "web_packages_RobustIV": [
+            "cran",
+            "https://cran.r-project.org/web/packages/RobustIV/",
+            "该链接指向的“web_packages/RobustIV”是一个用于因果推断中工具变量方法的R语言包，主要实现了TSHT（Two-Stage Hard Thresholding）算法，用于在存在无效工具变量的情况下进行稳健的因果效应估计。"
+        ],
+        "~ucgtrbd_code_iv_discovery": [
+            "www",
+            "https://www.homepages.ucl.ac.uk/~ucgtrbd/code/iv_discovery/",
+            "该链接指向的数据集“~ucgtrbd/code/iv_discovery”主要用于工具变量（Instrumental Variable, IV）发现与因果推断方法的实现与实验，支持评估和比较不同IV识别算法的性能。"
+        ],
+        "public_EthicsGuidelines": [
+            "neurips",
+            "https://neurips.cc/public/EthicsGuidelines",
+            "该链接“https://neurips.cc/public/EthicsGuidelines”指向的是NeurIPS会议的伦理准则页面，用于指导研究者在进行人工智能和机器学习研究时遵循伦理原则，确保研究的社会责任和道德合规。"
+        ]
+    },
+    "2692_Sample_specific_Masks_for": {
+        "w_index.php": [
+            "en",
+            "https://en.wikipedia.org/w/index.php",
+            "该链接指向的是维基百科上关于“双线性插值（Bilinear interpolation）”的页面，它介绍了一种常用于图像处理中的插值方法，用于根据周围像素值估算图像中某点的像素值。"
+        ]
+    },
+    "20023_Regularizing_Hidden_Stat": {
+        "Generalizable-": [
+            "git",
+            "https://github.com/YangRui2015/Generalizable-",
+            "该链接指向的“Generalizable-Reward-Model”数据集主要用于训练和评估在强化学习中具有人类反馈的通用奖励模型，以提高模型在未见过的提示-响应对上的泛化能力。"
+        ],
+        "github": [
+            "github",
+            "https://github",
+            "该链接（https://github.com/huggingface/trl）指向的是 Hugging Face 的 TRL（Transformer Reinforcement Learning）库，它主要用于将强化学习方法（如PPO）应用于大型语言模型的训练和微调。\n\n一句话描述：  \nTRL 是一个用于通过强化学习方法微调大语言模型的开源工具库。"
+        ],
+        "Unified-Feedback": [
+            "huggingface",
+            "https://huggingface.co/datasets/llm-blender/Unified-Feedback",
+            "“Unified-Feedback” 数据集是一个用于训练和评估大语言模型奖励模型（reward models）的多来源人类偏好反馈数据集。"
+        ],
+        "hhh_alignment": [
+            "huggingface",
+            "https://huggingface.co/datasets/HuggingFaceH4/hhh_alignment",
+            "数据集“hhh_alignment”旨在用于训练和评估语言模型在有害性（Harmfulness）、诚实性（Helpfulness）和人类偏好（Human Preferences）方面的一致性对齐表现。"
+        ],
+        "mt_bench_human_judgments": [
+            "huggingface",
+            "https://huggingface.co/datasets/lmsys/mt_bench_human_judgments",
+            "“mt_bench_human_judgments” 数据集用于评估大语言模型生成文本的质量，包含人类对多轮对话回答的评分与偏好判断。"
+        ],
+        "preference_700K": [
+            "huggingface",
+            "https://huggingface.co/datasets/hendrydong/preference_700K",
+            "该链接指向的数据集“preference_700K”是用于训练和评估基于偏好对比的奖励模型的数据集，包含约70万个由人类偏好标注的模型响应对。"
+        ],
+        "public_EthicsGuidelines": [
+            "neurips",
+            "https://neurips.cc/public/EthicsGuidelines",
+            "这个链接指向的“public_EthicsGuidelines”数据集实际上不是一个数据集，而是NeurIPS的伦理准则页面，主要用于指导研究人员在进行学术研究时遵守伦理规范。"
+        ],
+        "Generalizable-Reward-Model": [
+            "git",
+            "https://github.com/YangRui2015/Generalizable-Reward-Model",
+            "该链接指向的“Generalizable-Reward-Model”项目是一个用于训练和评估具有泛化能力的奖励模型的开源代码库，主要用于强化学习或人类反馈学习（如RLHF）中的奖励建模任务。"
+        ],
+        "RedPajama-Data-1T-Sample": [
+            "huggingface",
+            "https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T-Sample",
+            "“RedPajama-Data-1T-Sample” 是一个用于训练大型语言模型的高质量开源文本语料样本数据集。"
+        ]
+    },
+    "16721_Reinforcement_Learning_U": {
+        "pdf_2410.17904": [
+            "arxiv",
+            "https://arxiv.org/pdf/2410.17904",
+            "该链接指向的文件是NeurIPS 2024的一篇论文，论文研究如何将强化学习中在潜在状态空间使用的算法和样本复杂度保证，模块化地迁移到观测空间中，因此该“pdf_2410.17904”主要用于探讨结合表示学习与强化学习的算法理论与统计基础。"
+        ],
+        "rltheorybook": [
+            "rltheorybook",
+            "https://rltheorybook.github.io/",
+            "该链接指向的数据集“rltheorybook”是一个关于强化学习理论与算法的在线教材，旨在系统地介绍强化学习的核心概念、理论基础和算法方法。"
+        ],
+        "public_EthicsGuidelines": [
+            "neurips",
+            "https://neurips.cc/public/EthicsGuidelines",
+            "该链接指向的“public_EthicsGuidelines”并不是一个数据集，而是 NeurIPS（神经信息处理系统大会）发布的伦理指南文档，用于指导研究者在进行学术研究时遵守伦理规范。"
+        ]
+    },
+    "20620_Rule_Extrapolation_in_La": {
+        "arxiv": [
+            "arxiv",
+            "http://arxiv",
+            "“arXiv”是一个开放获取的预印本平台，主要用于分享尚未正式发表的科研论文，涵盖计算机科学、物理、数学等多个学科领域。"
+        ],
+        "abs_2403.11834": [
+            "arxiv",
+            "http://arxiv.org/abs/2403.11834",
+            "该链接指向的论文“abs_2403.11834”研究的是上下文学习（In-context Learning）与组合泛化（Compositional Generalization）之间的关系，涉及的数据集主要用于评估大语言模型在理解和泛化组合结构能力方面的表现。\n\n一句话简要描述：  \n该数据集用于探究大语言模型在上下文学习过程中对组合结构的泛化能力。"
+        ],
+        "abs_2312.00752": [
+            "arxiv",
+            "http://arxiv.org/abs/2312.00752",
+            "链接 http://arxiv.org/abs/2312.00752 指向的是论文《Mamba: Linear-Time Sequence Modeling with Selective State Spaces》。该论文提出了Mamba模型，一种用于高效序列建模的选择性状态空间方法。虽然该论文本身并不专注于发布数据集，但它主要用于提升如语言建模、时间序列预测等任务的性能。\n\n一句话描述：  \n该论文提出了一种高效的序列建模架构Mamba，适用于语言建模等任务，旨在替代Transformer实现线性时间复杂度的推理。"
+        ],
+        "articles_s41467-018-03101-6": [
+            "www",
+            "https://www.nature.com/articles/s41467-018-03101-6",
+            "该链接指向的数据集来自论文《Input–output maps are strongly biased towards simple outputs》，研究的是输入输出映射中对简单输出的偏好，说明在自然和人工系统中，复杂系统更容易产生简单的输出。\n\n简要描述：该数据集用于研究输入输出映射在自然和人工系统中对简单输出的偏好性。"
+        ],
+        "v202_liu23ao.html": [
+            "proceedings",
+            "https://proceedings.mlr.press/v202/liu23ao.html",
+            "该链接（https://proceedings.mlr.press/v202/liu23ao.html）指向的是一篇论文《Same pre-training loss, better downstream: Implicit bias matters for language models》，其研究内容主要探讨了在相同预训练损失下，不同训练配置对语言模型下游任务性能的影响，因此该论文相关的数据集用于评估语言模型在不同配置下的下游任务表现。  \n\n简要描述：该数据集用于研究语言模型在相同预训练损失下的不同配置对下游任务性能的影响。"
+        ],
+        "abs_2311.12997": [
+            "arxiv",
+            "http://arxiv.org/abs/2311.12997",
+            "该链接（http://arxiv.org/abs/2311.12997）指向的论文是《Compositional Capabilities of Autoregressive Transformers: A Study on Synthetic, Interpretable Tasks》，其使用合成的、可解释的任务来研究自回归Transformer模型的组合泛化能力。\n\n一句话简要描述：该数据集用于评估大语言模型在结构化、可组合任务上的泛化与推理能力。"
+        ],
+        "articles_s41586-023-06668-3": [
+            "www",
+            "https://www.nature.com/articles/s41586-023-06668-3",
+            "该链接（https://www.nature.com/articles/s41586-023-06668-3）对应的论文是 B. M. Lake 和 M. Baroni 于 2023 年发表于《Nature》的一项研究，主要介绍了一个通过元学习神经网络实现类人系统性泛化的实验，其中使用的数据集旨在评估模型在组合性语言理解和系统性泛化方面的能力。\n\n一句话简要描述：  \n该数据集用于评估神经网络在类人语言系统性泛化任务中的元学习能力。"
+        ],
+        "abs_2305.16843": [
+            "arxiv",
+            "http://arxiv.org/abs/2305.16843",
+            "该链接（http://arxiv.org/abs/2305.16843）指向的论文《Randomized Positional Encodings Boost Length Generalization of Transformers》研究了一种通过随机化位置编码提升Transformer模型在处理不同输入长度时的泛化能力的方法；因此，该论文中使用的数据集主要用于评估模型在长度泛化任务中的表现。\n\n一句话描述：该数据集用于评估Transformer模型在序列长度变化时的泛化能力。"
+        ],
+        "mamba.py": [
+            "git",
+            "https://github.com/alxndrTL/mamba.py",
+            "“mamba.py” 是一个名为 Mamba 的开源代码库，托管在 GitHub 上，用于实现一种高效的序列建模架构，通常用于自然语言处理等任务中的长序列建模。"
+        ],
+        "content_dam_en-zz_Solutions_Data-Center_a100_pdf": [
+            "www",
+            "https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/a100/pdf/",
+            "这个链接指向的是 NVIDIA A100 显卡的数据手册（datasheet），主要用于提供该显卡的技术规格和功耗信息。"
+        ],
+        "books": [
+            "books",
+            "http://books.google.com/books?vid=ISBN0387948686",
+            "链接 http://books.google.com/books?vid=ISBN0387948686 指向的是图书《An Introduction to Kolmogorov Complexity and Its Applications》，其中的“books”并不是一个数据集，而是 Google Books 平台上的图书页面。因此，它并不指向一个实际的数据集。\n\n简要描述：该链接指向的是关于Kolmogorov复杂性理论的教科书页面，不是数据集。"
+        ],
+        "llm-non-identifiability": [
+            "git",
+            "https://github.com/rpatrik96/llm-non-identifiability",
+            "该链接指向的数据集“llm-non-identifiability”用于研究大型语言模型（LLMs）在参数空间中的非唯一性问题，旨在探讨不同参数初始化或训练路径下模型表现相似但内部结构不同的现象。"
+        ],
+        "rule_extrapolation": [
+            "git",
+            "https://github.com/meszarosanna/rule_extrapolation",
+            "该链接指向的数据集“rule_extrapolation”用于研究神经网络在形式文法语言上的泛化能力，特别是在规则外推任务中的表现。"
+        ],
+        "xlstm": [
+            "git",
+            "https://github.com/NX-AI/xlstm?tab=readme-ov-file#",
+            "该链接指向的“xlstm”数据集主要用于训练和评估基于改进LSTM结构（如xLSTM、mLSTM、sLSTM等）的语言模型，旨在提升模型在序列建模任务中的表现。"
+        ],
+        "public_EthicsGuidelines": [
+            "neurips",
+            "https://neurips.cc/public/EthicsGuidelines",
+            "该链接“https://neurips.cc/public/EthicsGuidelines” 指向的是 NeurIPS 的伦理准则页面，主要用于指导论文作者在进行机器学习研究时遵守道德规范。"
+        ]
+    },
+    "20686_Compositional_Generaliza": {
+        "science": [
+            "www",
+            "https://www.sciencedirect.com/science/",
+            "该链接（https://www.sciencedirect.com/science/article/pii/S0004370221002009）指向的是一篇关于“Logic Tensor Networks”的学术论文，而非直接提供数据集“science”；因此，这里的“science”并不是一个数据集名称，而是 ScienceDirect 平台的一部分，用于展示科学研究文章。因此，这个链接并不指向一个名为“science”的数据集。\n\n简要描述：该链接指向一篇关于神经符号系统中“逻辑张量网络”的研究论文，而非名为“science”的数据集。"
+        ],
+        "v97": [
+            "proceedings",
+            "https://proceedings.mlr.press/v97/",
+            "该链接（https://proceedings.mlr.press/v97/）指向的是ICML 2019（国际机器学习大会）的论文集页面，因此“v97”代表的是该会议在PMLR（Proceedings of Machine Learning Research）中的第97卷，主要收录了与机器学习相关的最新研究成果和方法，而非特定的数据集。"
+        ],
+        "abs_2310.15040": [
+            "arxiv",
+            "http://arxiv.org/abs/2310.15040",
+            "该链接指向的数据集“SLOG: A Structural Generalization Benchmark for Semantic Parsing”旨在评估语义解析模型在结构泛化任务中的表现。"
+        ],
+        "anthology_2020.acl-main.676": [
+            "www",
+            "https://www.aclweb.org/anthology/2020.acl-main.676",
+            "该链接指向的数据集“anthology_2020.acl-main.676”来自论文《Good-Enough Compositional Data Augmentation》，其主要用于研究如何通过组合式的数据增强方法提升神经网络在语言理解任务中的泛化能力。"
+        ],
+        "forum": [
+            "openreview",
+            "https://openreview.net/forum?id=oFC2LAqS6Z",
+            "该链接（https://openreview.net/forum?id=oFC2LAqS6Z）指向的是一篇关于Transformer模型在结构化任务上泛化能力的研究论文页面，\"forum\" 是 OpenReview 平台上用于论文评审和讨论的页面标识，不是数据集；因此它并不指向一个数据集，而是用于展示和讨论该论文的内容。\n\n一句话描述：“forum”页面用于展示和讨论一篇关于Transformer在结构化任务中泛化能力的研究论文，而非数据集。"
+        ],
+        "sdtm": [
+            "git",
+            "https://github.com/psoulos/sdtm",
+            "该链接指向的“sdtm”项目是用于将序列数据转换为树结构并进行结构化表示学习的模型，旨在提升在多种任务中的泛化能力。"
+        ],
+        "public_EthicsGuidelines": [
+            "neurips",
+            "https://neurips.cc/public/EthicsGuidelines",
+            "该链接指向的“public_EthicsGuidelines”是NeurIPS会议发布的伦理准则文档，旨在指导研究人员在提交和开展科研工作时遵守伦理规范。"
+        ],
+        "paper_files_paper_2018_file": [
+            "proceedings",
+            "https://proceedings.neurips.cc/paper_files/paper/2018/file/",
+            "这个链接指向的是论文《Tree-to-tree neural networks for program translation》，其数据集主要用于程序翻译任务，即将一种编程语言表示的程序结构转换为另一种语言的等价程序结构。"
+        ]
+    },
+    "20740_Toward_Self_Improvement_": {
+        "api": [
+            "api",
+            "https://api.semanticscholar.org/",
+            "该链接（https://api.semanticscholar.org/CorpusID:252693405）指向的是Semantic Scholar数据库中一个特定论文的API接口，用于程序化获取该论文的元数据（如标题、作者、摘要等）信息，而不是用于访问某个具体的数据集内容。"
+        ],
+        "AlphaLLM": [
+            "git",
+            "https://github.com/YeTianJHU/AlphaLLM",
+            "“AlphaLLM” 是一个结合蒙特卡洛树搜索（MCTS）与大型语言模型（LLM）进行自我改进的系统，其数据集用于提升 LLM 在数学推理等复杂语言任务中的表现。"
+        ],
+        "abel": [
+            "git",
+            "https://github.com/GAIR-NLP/abel",
+            "这个链接（https://github.com/GAIR-NLP/abel）指向的数据集“Abel”是一个用于数学问题生成与求解的生成式人工智能数据集和工具包，旨在提升大语言模型在数学推理任务中的能力。"
+        ],
+        "nips": [
+            "nips",
+            "https://nips.cc/",
+            "“nips”指的是NeurIPS（Conference on Neural Information Processing Systems）会议，其数据集通常用于机器学习与人工智能研究中的实验复现或评估。"
+        ],
+        "public_EthicsGuidelines": [
+            "neurips",
+            "https://neurips.cc/public/EthicsGuidelines",
+            "该链接“public_EthicsGuidelines”指向的是 NeurIPS（神经信息处理系统大会）发布的伦理准则，主要用于指导提交论文的研究者在研究过程中遵守伦理规范和负责任的科研实践。"
+        ]
+    },
+    "2812_Self_Composing_Policies_f": {
+        "gymnasium": [
+            "gymnasium",
+            "https://gymnasium.farama.org/",
+            "“Gymnasium” 是一个用于强化学习研究的开源平台，提供各种标准化的模拟环境，包括 Atari 游戏，用于训练和评估智能体。"
+        ],
+        "mikelma": [
+            "git",
+            "https://github.com/mikelma/",
+            "该链接（https://github.com/mikelma/componet）指向的数据集和代码库“componet”主要用于持续强化学习（Continual Reinforcement Learning），旨在支持训练能够在多个任务中逐步学习、适应和迁移知识的智能体。"
+        ],
+        "farama": [
+            "farama",
+            "https://farama.org/",
+            "Farama 是一个用于强化学习研究的环境集合，提供多种仿真环境（如 Atari 游戏）供智能体训练和评估。"
+        ],
+        "environments_atari_space_invaders": [
+            "gymnasium",
+            "https://gymnasium.farama.org/environments/atari/space_invaders/",
+            "数据集“environments_atari_space_invaders”是一个用于强化学习研究的环境，模拟了经典雅达利游戏《Space Invaders》，用于训练和评估智能体在动态射击场景中的决策能力。"
+        ],
+        "environments_atari_freeway": [
+            "gymnasium",
+            "https://gymnasium.farama.org/environments/atari/freeway/",
+            "“environments_atari_freeway” 是一个复现 Atari 游戏 Freeway 的强化学习环境，用于训练和评估智能体在高速公路穿越任务中的表现。"
+        ],
+        "392": [
+            "git",
+            "https://github.com/Farama-Foundation/Metaworld/issues/392",
+            "这个链接（https://github.com/Farama-Foundation/Metaworld/issues/392）指向的是 Meta-World 项目的一个 GitHub issue，主要讨论该强化学习环境中存在的问题或改进建议，因此它大致是用于跟踪和讨论 Meta-World 数据集或环境在开发和使用过程中出现的问题。\n\n一句话描述：该链接指向的是关于 Meta-World 强化学习环境问题的讨论帖，用于反馈和改进环境实现。"
+        ],
+        "continual_world": [
+            "git",
+            "https://github.com/awarelab/continual_world",
+            "“continual_world” 是一个用于连续学习（Continual Learning）研究的数据集和环境集合，主要用于评估强化学习算法在多任务或任务顺序变化情况下的适应能力。"
+        ],
+        "gym": [
+            "git",
+            "https://github.com/openai/gym",
+            "“gym” 是一个用于开发和比较强化学习算法的工具包，提供了多种标准化的环境供算法训练与评估。"
+        ]
+    },
+    "400_Statistically_Optimal_K_me": {
+        "archive": [
+            "archive",
+            "http://archive",
+            "该链接指向的“UCI machine learning repository”是一个广泛使用的机器学习数据集仓库，提供用于研究和实验的多种标准数据集。"
+        ],
+        "v75": [
+            "proceedings",
+            "https://proceedings.mlr.press/v75/",
+            "链接中的“v75”指的是机器学习研究会议（Conference On Learning Theory, COLT）2018年论文集的第75卷，其中包含的论文主要聚焦于理论机器学习方法的研究与分析。"
+        ]
+    },
+    "4579_Minimax_Optimality_of_Sco": {
+        "www": [
+            "www",
+            "https://www.universiteitleiden.nl/",
+            "该链接（https://www.universiteitleiden.nl/binaries/content/assets/science/mi/scripties/masterberens.pdf）指向的是一篇硕士论文，而非数据集，因此它不是“www”数据集或类似资源；该文件主要研究条件Rényi熵的理论性质。"
+        ],
+        "forum": [
+            "openreview",
+            "https://openreview.net/forum",
+            "这个链接（https://openreview.net/forum?id=PxTIG12RRHS）指向的是一篇论文在学术会议 International Conference on Learning Representations (ICLR) 上的公开评审页面，不是数据集；它用于展示论文内容、接受社区评论和审稿意见。"
+        ]
+    },
+    "4686_Knowledge_Card_Filling_LL": {
+        "2023.emnlp-main.59": [
+            "aclanthology",
+            "https://aclanthology.org/2023.emnlp-main.59",
+            "该链接指向的数据集“2023.emnlp-main.59”是FactKB数据集，用于通过结合语言模型和事实知识评估文本内容的真实性。"
+        ],
+        "Knowledge": [
+            "git",
+            "https://github.com/BunsenFeng/Knowledge",
+            "该链接指向的数据集“Knowledge Card”旨在支持模块化和协同的知识管理，便于从不同利益相关者处以插件式方式更新和扩展大型语言模型的知识。"
+        ],
+        "Opensubtitles_dataset": [
+            "git",
+            "https://github.com/sdtblck/Opensubtitles_dataset",
+            "“Opensubtitles_dataset” 是一个包含电影和电视剧字幕的大规模文本数据集，主要用于自然语言处理中的语言建模、机器翻译等任务。"
+        ],
+        "The-Pile-PubMed": [
+            "git",
+            "https://github.com/thoppe/The-Pile-PubMed",
+            "“The-Pile-PubMed” 是一个从 PubMed 文献中提取的文本子集，主要用于自然语言处理中的生物医学文本建模和语言模型预训练。"
+        ],
+        "dataset": [
+            "www",
+            "https://www.yelp.com/dataset",
+            "这个链接指向的是 Yelp 数据集，它主要包含用户对商家的评论和评分，用于进行情感分析、推荐系统等任务。"
+        ],
+        "wikipedia-downloader": [
+            "git",
+            "https://github.com/noanabeshima/wikipedia-downloader",
+            "该链接指向的数据集“wikipedia-downloader”是一个用于从维基百科批量下载条目内容的工具或脚本，主要用于构建本地维基百科语料库。"
+        ]
+    },
+    "4955_Buffer_of_Thoughts_Though": {
+        "nips": [
+            "nips",
+            "https://nips.cc/",
+            "“nips”链接指向的数据集大致与NeurIPS会议论文中的实验数据相关，主要用于支持机器学习或人工智能研究的复现和验证。"
+        ],
+        "public_EthicsGuidelines": [
+            "neurips",
+            "https://neurips.cc/public/EthicsGuidelines",
+            "该链接“public_EthicsGuidelines”指向的是NeurIPS的伦理准则页面，用于指导研究者在撰写和提交论文时遵守道德规范。"
+        ],
+        "buffer-of-thought-llm": [
+            "git",
+            "https://github.com/YangLing0818/buffer-of-thought-llm",
+            "该链接指向的数据集“buffer-of-thought-llm”用于支持 Buffer of Thoughts 方法的研究，主要用于存储和组织大语言模型在多任务推理过程中提取的高层次思维模板（thought-template），以提升模型的推理准确性与效率。"
+        ],
+        "SuperCorrect-llm": [
+            "git",
+            "https://github.com/YangLing0818/SuperCorrect-llm",
+            "“SuperCorrect-llm” 是一个用于增强大语言模型推理能力的数据集扩展，旨在通过提供更正示例和推理模板，提升模型在复杂推理任务中的准确性和鲁棒性。"
+        ]
+    },
+    "5596_MLLM_as_a_Judge_Assessing": {
+        "mllm-judge": [
+            "mllm-judge",
+            "https://mllm-judge.github.io/",
+            "“mllm-judge”数据集用于评估多模态大语言模型（MLLMs）在判别任务中的表现，特别关注其在人类偏好评估中的一致性与可靠性。"
+        ],
+        "api": [
+            "api",
+            "https://api",
+            "该链接指向的数据集“https://api.semanticscholar.org/CorpusID:14113767”是 Microsoft COCO（Common Objects in Context）数据集，用于图像识别、目标检测和图像描述等计算机视觉任务。"
+        ],
+        "research": [
+            "openai",
+            "https://openai.com/research/",
+            "该链接（https://openai.com/research/gpt-4v-system-card）指向的是 OpenAI GPT-4V（GPT-4 with Vision）相关的系统卡文档，它描述了该模型在图像和文本多模态理解方面的能力，因此该“research”主要是关于GPT-4V模型的研究和应用。  \n\n简要描述：该数据集/研究展示了GPT-4V模型在视觉问答和多模态理解任务中的能力与表现。"
+        ],
+        "open": [
+            "open",
+            "https://open.bigmodel.cn/",
+            "该链接（https://open.bigmodel.cn/）指向的是智谱AI开放平台，提供包括GLM系列多模态大模型在内的大模型服务与API接口，支持文本生成、图文理解等任务，是一个用于访问和调用大模型能力的平台。"
+        ],
+        "blog_new-models-and-developer-products-announced-at-devday": [
+            "openai",
+            "https://openai.com/blog/new-models-and-developer-products-announced-at-devday",
+            "该链接指向的是 OpenAI 在 Dev Day 上发布新模型和开发者产品的博客页面，主要介绍了包括 GPT-4 在内的新模型功能和相关工具的更新，而不是一个具体的数据集。"
+        ],
+        "2022": [
+            "aclanthology",
+            "https://aclanthology.org/2022",
+            "该链接指向的数据集是ChartQA（2022），它是一个用于图表问答任务的基准数据集，旨在评估模型对图表中的视觉和逻辑信息进行理解和推理的能力。"
+        ]
+    },
+    "633_Q_Bench_A_Benchmark_for_Ge_Supplementary Material": {
+        "blog_idefics": [
+            "huggingface",
+            "https://huggingface.co/blog/idefics",
+            "该链接指向的“blog_idefics”是 Hugging Face 发布的一个开源项目，旨在复现最先进的视觉语言模型，支持多模态理解任务。  \n简要描述：  \n“blog_idefics”是一个用于复现和研究多模态视觉语言模型的开源项目。"
+        ]
+    },
+    "5897_EQA_MX_Embodied_Question_": {
+        "D14-1086": [
+            "aclanthology",
+            "https://aclanthology.org/D14-1086",
+            "该链接指向的数据集“D14-1086”是ReferItGame数据集，用于指代表达研究，它包含了自然图像中物体的语言描述，支持视觉与语言之间的指代理解任务。"
+        ],
+        "aclanthology": [
+            "aclanthology",
+            "https://aclanthology.org/",
+            "“aclanthology” 是一个聚焦于计算语言学和自然语言处理领域论文的在线文献数据库，用于存储和访问相关学术出版物。"
+        ],
+        "bit": [
+            "bit",
+            "https://bit",
+            "该链接指向的数据集 EQA-MX 是一个多模态问答与导航任务的数据集，包含丰富的视觉场景注释，用于训练和评估智能体在模拟环境中进行视觉问答和导航能力。"
+        ],
+        "index.php": [
+            "ojs",
+            "https://ojs.aaai.org/index.php/",
+            "这个链接指向的是AAAI会议论文库中关于“MUMU: Cooperative Multitask Learning-based Guided Multimodal Fusion”的论文页面，所提及的数据集用于支持一个多任务学习框架，旨在通过引导的多模态融合提升人工智能在理解和处理多模态信息（如视觉与语言）方面的能力。"
+        ],
+        "pytorch-": [
+            "git",
+            "https://github.com/PyTorchLightning/pytorch-",
+            "这个链接指向的是 PyTorch Lightning 项目（https://github.com/PyTorchLightning/pytorch-lightning），它并不是一个数据集，而是一个简化 PyTorch 训练流程的轻量级开源框架，旨在提高深度学习研究的可重用性和可维护性。"
+        ],
+        "docs_transformers_model_doc_bert": [
+            "huggingface",
+            "https://huggingface.co/docs/transformers/model_doc/bert",
+            "链接 \"https://huggingface.co/docs/transformers/model_doc/bert\" 指向的是 BERT 模型的文档页面，而不是具体的数据集；它主要用于介绍 BERT 模型的结构、用途及在 Hugging Face Transformers 库中的使用方法。\n\n简要描述：该链接提供了关于 BERT 模型的详细文档，涵盖其架构、用途以及如何在 Transformers 库中加载和使用。"
+        ],
+        "docs_transformers_model_doc_vit": [
+            "huggingface",
+            "https://huggingface.co/docs/transformers/model_doc/vit",
+            "该链接指向的是 Hugging Face Transformers 库中关于 ViT（Vision Transformer）模型的文档页面，主要用于图像分类等视觉任务的预训练视觉模型说明。"
+        ],
+        "docs_transformers_model_doc_visual_bert": [
+            "huggingface",
+            "https://huggingface.co/docs/transformers/model_doc/visual_bert",
+            "该链接指向的“docs_transformers_model_doc_visual_bert”页面是关于VisualBERT模型的文档说明，而不是具体的数据集；VisualBERT是一种多模态预训练模型，用于联合理解图像与文本信息。"
+        ],
+        "docs_transformers_model_doc": [
+            "huggingface",
+            "https://huggingface.co/docs/transformers/model_doc/",
+            "这些链接指向的是 Hugging Face Transformers 库中各个模型的文档页面，主要用于介绍模型的结构、用途以及如何在代码中调用与使用。"
+        ],
+        "docs_transformers_model_doc_vilt": [
+            "huggingface",
+            "https://huggingface.co/docs/transformers/model_doc/vilt",
+            "该链接指向的数据集“docs_transformers_model_doc_vilt”主要是介绍ViLT模型的文档页面，ViLT 是一种用于多模态任务（如图文匹配、视觉问答等）的视觉语言Transformer模型。"
+        ],
+        "docs_transformers_model_doc_clip": [
+            "huggingface",
+            "https://huggingface.co/docs/transformers/model_doc/clip",
+            "该链接指向的数据集“docs_transformers_model_doc_clip”对应的是 CLIP 模型的文档页面，CLIP 是一种将图像和文本映射到同一向量空间中以实现跨模态检索和理解的视觉-语言模型。"
+        ],
+        "eqa-mx-dataset": [
+            "bit",
+            "https://bit.ly/eqa-mx-dataset",
+            "“eqa-mx-dataset” 是一个用于多模态问答（Embodied Question Answering）任务的数据集，旨在支持智能体在模拟环境中通过视觉和语言信息进行导航和回答问题。"
+        ],
+        "eqa-repo": [
+            "bit",
+            "https://bit.ly/eqa-repo",
+            "“eqa-repo”链接指向的数据集和代码库主要用于支持EQA-MX数据集的处理、分析以及VQ-Fusion等基准模型的实现，旨在用于多模态问答任务中的研究与实验。"
+        ],
+        "model-checkpoint": [
+            "bit",
+            "https://bit.ly/model-checkpoint",
+            "该链接指向的“model-checkpoint”数据集包含用于存在性预测任务的ViLT与VQ-Fusion模型的已训练权重，用于在多模态问答或环境理解任务中进行模型评估或复现实验结果。"
+        ],
+        "multimodal-docker": [
+            "bit",
+            "https://bit.ly/multimodal-docker",
+            "“multimodal-docker” 是一个用于复现实验设置和训练环境的容器，方便在多模态任务中训练模型。"
+        ]
+    },
+    "5179_Equivariance_via_Minimal_": {
+        "forum": [
+            "openreview",
+            "https://openreview.net/forum",
+            "这个链接指向的是OpenReview上的一个论文评审论坛页面，通常用于展示该论文的摘要、作者信息、评审意见等内容，所述的数据集“forum”实际上并不是数据集本身，而是论文的讨论页面，可能包含了与等变图卷积网络（Equivariant Graph Convolutional Networks）相关的方法和实验数据。"
+        ],
+        "10.5281": [
+            "doi",
+            "https://doi.org/10.5281/",
+            "该链接（https://doi.org/10.5281/zenodo.2603256）指向的是一个用于顶夸克识别（top quark tagging）的参考数据集，常用于高能物理中机器学习模型的训练与评估。"
+        ],
+        "MFA": [
+            "git",
+            "https://github.com/divelab/MFA",
+            "该链接指向的“MFA”项目是一个用于构建精确等变结构的数学框架，旨在高效编码物理、量子力学等领域中的对称性，用于支持如n体模拟、粒子物理分类和能量预测等任务的数据和代码库。"
+        ]
+    },
+    "6476_SWE_bench_Can_Language_Mo": {
+        "10.1126%2Fscience": [
+            "doi",
+            "https://doi.org/10.1126%2Fscience",
+            "该链接指向的是“AlphaCode”项目相关的论文，描述了由DeepMind开发的一个能够在类似编程竞赛环境中自动生成高质量代码的模型，因此该数据集主要用于支持和评估高级别编程题目的代码生成能力。\n\n简要描述：该数据集用于训练和评估模型在编程竞赛题目上的自动代码生成能力。"
+        ],
+        "forum": [
+            "openreview",
+            "https://openreview.net/forum",
+            "该链接（https://openreview.net/forum?id=nZeVKeeFYf9）指向的是一篇关于LoRA（Low-Rank Adaptation）的论文页面，该论文提出了一种用于高效微调大型语言模型的方法。  \n\n简要描述：LoRA是一个用于低秩参数高效微调大型语言模型的技术方法。"
+        ],
+        "api": [
+            "api",
+            "https://api.semanticscholar.org/",
+            "该链接（https://api.semanticscholar.org/CorpusID:173188438）指向的是ManySStuBs4J数据集，这是一个用于研究Java程序中单语句错误（Single-Statement Bugs）频率和特征的数据集，主要用于支持软件缺陷分析与修复研究。"
+        ],
+        "D18-1425": [
+            "aclanthology",
+            "https://aclanthology.org/D18-1425",
+            "链接“D18-1425”指向的是Spider数据集，这是一个大规模人工标注的数据集，用于复杂且跨领域的语义解析和文本到SQL（text-to-SQL）任务。"
+        ],
+        "top-pypi-packages": [
+            "hugovk",
+            "https://hugovk.github.io/top-pypi-packages/",
+            "该链接指向的数据集“top-pypi-packages”列出了最常用的 PyPI（Python 包索引）上的 Python 软件包，通常用于分析或选择主流的 Python 库。"
+        ],
+        "CorpusID:236610014": [
+            "api",
+            "https://api.semanticscholar.org/CorpusID:236610014",
+            "该链接指向的数据集“CorpusID:236610014”来自一篇关于AI基准评测研究动态的论文，用于分析和研究流行AI基准背后的研究社区结构与演化趋势。"
+        ],
+        "10.1145%2F3105906": [
+            "doi",
+            "https://doi.org/10.1145%2F3105906",
+            "该链接（https://doi.org/10.1145%2F3105906）指向的是一篇关于“自动软件修复（Automatic Software Repair）”的综述论文，综述了自动修复程序中常用的技术、方法和工具，因此相关的数据集主要用于评估自动程序修复系统的性能。\n\n一句话描述：该数据集主要用于支持和评估自动软件修复技术的发展与研究。"
+        ],
+        "CorpusID": [
+            "api",
+            "https://api.semanticscholar.org/CorpusID",
+            "该链接指向的数据集“CorpusID 247318891”来自Semantic Scholar，关联的论文是关于人工智能基准测试创建与饱和的全球动态分析，因此该数据集大致用于分析AI基准测试的发展趋势和分布情况。"
+        ],
+        "13314": [
+            "git",
+            "https://github.com/scikit-learn/scikit-learn/pull/13314",
+            "该链接（https://github.com/scikit-learn/scikit-learn/pull/13314）指向的是一个对 scikit-learn 库中 HuberRegressor 模型的修复性 Pull Request，主要用于解决在模型拟合时输入布尔类型特征（boolean X）导致的 TypeError 问题。\n\n一句话描述：  \n这是一个用于修复 HuberRegressor 在处理布尔类型输入时出错问题的补丁数据集。"
+        ],
+        "13328": [
+            "git",
+            "https://github.com/scikit-learn/scikit-learn/issues/13328",
+            "该链接指向的“13328”是 scikit-learn 仓库中的一个 issue，主要用于报告和讨论在使用 HuberRegressor 拟合布尔类型输入数据时产生 TypeError 的问题，而不是一个传统意义上的数据集。"
+        ],
+        "24349": [
+            "git",
+            "https://github.com/matplotlib/matplotlib/issues/24349",
+            "该链接指向的数据集“24349”是一个关于matplotlib库中subplot参数“sharex”和“sharey”不接受布尔值0和1的问题报告，其主要用于追踪和记录该软件缺陷。"
+        ],
+        "24362": [
+            "git",
+            "https://github.com/matplotlib/matplotlib/pull/24362",
+            "这个链接指向的数据集“24362”是一个针对 Matplotlib 库的 pull request（PR），用于修复一个在使用 pyplot.subplots 时，参数 sharex 和 sharey 不接受布尔值 0 和 1 的问题。"
+        ],
+        "14363": [
+            "git",
+            "https://github.com/astropy/astropy/issues/14363",
+            "该链接指向的数据集“14363”是一个关于 Astropy 库中 QDP 文件解析错误的 GitHub issue，主要用于报告和追踪由于大小写不敏感处理不当而导致的 ascii.qdp 表格加载失败的问题。"
+        ],
+        "315810": [
+            "user-images",
+            "https://user-images.githubusercontent.com/315810/",
+            "该数据集“315810”来自 GitHub 用户的 issue 图像链接，主要用于展示 Seaborn 可视化库在特定参数设置下绘图时出现的图像渲染问题，辅助调试和修复可视化 bug。"
+        ],
+        "14365": [
+            "git",
+            "https://github.com/astropy/astropy/pull/14365",
+            "该链接指向的数据集“14365”是一个关于Astropy库中QDP表格格式处理问题的补丁请求，旨在修复因命令大小写敏感导致的解析错误。"
+        ],
+        "2907": [
+            "git",
+            "https://github.com/mwaskom/seaborn/issues/2907",
+            "该链接指向的数据集“2907”是一个开源可视化库 Seaborn 的 GitHub issue，主要描述在使用对数坐标轴绘制直方图时柱状宽度计算出现轻微错误的可视化问题。"
+        ],
+        "3217": [
+            "git",
+            "https://github.com/mwaskom/seaborn/pull/3217",
+            "这个链接指向的数据集“3217”来自 seaborn 项目的一个 GitHub Pull Request，主要用于修复在使用对数坐标轴绘制直方图时，条形宽度计算不准确的问题。"
+        ],
+        "3525": [
+            "git",
+            "https://github.com/pylint-dev/pylint/issues/3525",
+            "该链接指向的数据集“3525”是一个关于 Python 静态代码分析工具 Pylint 报告的 issue，具体问题是由于在类型检查（TYPE_CHECKING）块中导入模块可能引发“cyclic-import”（循环导入）警告。"
+        ],
+        "4703": [
+            "git",
+            "https://github.com/pylint-dev/pylint/pull/4703",
+            "该链接指向的数据集“4703”是一个用于修复 Python 静态分析工具 Pylint 中循环导入误报问题的 Pull Request，主要涉及改进类型检查期间的导入处理逻辑。"
+        ],
+        "3285": [
+            "git",
+            "https://github.com/PyCQA/pylint/issues/3285",
+            "该链接（https://github.com/PyCQA/pylint/issues/3285）指向的是 Pylint 的一个 issue，主要讨论了在类型检查（TYPE_CHECKING）块中导入模块时触发“cyclic-import”（循环导入）警告的问题，因此该数据集主要用于分析和修复 Pylint 在处理类型注解相关导入时误报循环导入的行为。"
+        ],
+        "5130": [
+            "git",
+            "https://github.com/pydata/xarray/pull/5130",
+            "该链接指向的数据集“5130”是一个关于 Python 数据处理库 xarray 的 GitHub 问题，具体描述了在交互式会话中显示 DatasetGroupBy 对象时首行输出存在多余空格的格式化问题。"
+        ],
+        "5131": [
+            "git",
+            "https://github.com/pydata/xarray/pull/5131",
+            "该链接指向的数据集“5131”是一个用于修复 Python 库 xarray 中输出字符串格式问题的 Pull Request，主要目的是去除 DatasetGroupBy 对象字符串表示中多余的尾随空格。"
+        ],
+        "post": [
+            "httpbin",
+            "http://httpbin.org/post",
+            "该链接指向的数据集“post”属于 HTTP 请求测试平台 httpbin.org，用于测试客户端发送的 POST 请求及其内容。"
+        ],
+        "ticket_29376": [
+            "code",
+            "https://code.djangoproject.com/ticket/29376",
+            "该链接指向的数据集“ticket_29376”来自 Django 项目的问题追踪系统，主要用于记录和管理用户在使用 Django 框架过程中提出的功能请求或 bug 报告。"
+        ],
+        "1723": [
+            "git",
+            "https://github.com/psf/requests/issues/1723",
+            "该链接指向的数据集“1723”是一个开源软件库（psf/requests）中的GitHub issue，描述了在Python 2.7.2中使用Unicode方法名时引发UnicodeDecodeError的问题，主要用于测试和评估代码补丁生成模型在软件错误修复任务中的能力。"
+        ],
+        "post’": [
+            "httpbin",
+            "http://httpbin.org/post’",
+            "该链接指向的数据集“SWE-bench”用于评估大型语言模型在软件工程任务中的实际编程能力，具体通过修复真实开源项目中的bug来测试模型的代码生成和问题理解能力。"
+        ],
+        "1724": [
+            "git",
+            "https://github.com/psf/requests/pull/1724",
+            "该链接指向的数据集“1724”是一个开源软件项目（psf/requests）中的GitHub Pull Request，用于修复因在 Python 2.7 中使用 Unicode 方法名而导致的 UnicodeDecodeError 错误。"
+        ],
+        "11727": [
+            "git",
+            "https://github.com/django/django/pull/11727",
+            "该链接指向的数据集 \"11727\" 是 Django 项目的一个 Pull Request，旨在通过引入 show_save_and_add_another 上下文变量，使开发者可以选择性地隐藏“Save and Add Another”按钮，从而增强 Django 管理后台界面的自定义性。"
+        ],
+        "11437": [
+            "git",
+            "https://github.com/sphinx-doc/sphinx/issues/11437",
+            "这个链接指向的数据集“11437”是一个关于 Sphinx 文档生成工具在特定配置下渲染错误的 GitHub Issue，主要描述了设置 rst_prolog 后导致包含 domain 指令的顶层标题无法正确显示的问题。"
+        ],
+        "11445": [
+            "git",
+            "https://github.com/sphinx-doc/sphinx/pull/11445",
+            "该链接指向的数据集“11445”是一个关于 Sphinx 文档工具在特定配置（设置了 `rst_prolog`）下渲染文档标题异常的错误修复示例。"
+        ],
+        "8798": [
+            "git",
+            "https://github.com/scikit-learn/scikit-learn/issues/8798",
+            "该链接指向的数据集“8798”是一个关于 scikit-learn 中 KernelPCA 使用 RBF 核时输出结果符号不一致的问题报告，主要用于测试和复现该算法在相同输入下输出结果符号可能相反的行为。"
+        ],
+        "13241": [
+            "git",
+            "https://github.com/scikit-learn/scikit-learn/pull/13241",
+            "该链接指向的数据集“13241”是一个关于修复 scikit-learn 中 KernelPCA 使用 RBF 核时输出结果符号不一致问题的代码变更（Pull Request），主要用于改进降维算法在相同数据集上的结果一致性。"
+        ]
+    },
+    "716_Accurate_LoRA_Finetuning_Q": {
+        "github": [
+            "github",
+            "https://github",
+            "该链接指向的数据集“https://github.com/tatsu-lab/stanford_alpaca”是用于训练和研究类指令跟随（instruction-following）语言模型的开源项目，旨在通过微调 LLaMA 模型提升其在人类指令理解方面的能力。"
+        ],
+        "zenodo_records": [
+            "zenodo",
+            "https://zenodo.org/records/",
+            "该链接指向的数据集“zenodo_records”是用于少样本语言模型评估的框架，旨在评估大型语言模型在少量示例条件下的表现。"
+        ],
+        "ir-qlora": [
+            "git",
+            "https://github.com/htqin/ir-qlora",
+            "“ir-qlora” 是一个用于大语言模型（LLM）量化微调的开源代码库，旨在通过信息重构和弹性连接机制提升低比特量化模型的性能和效率。"
+        ],
+        "10.1109_TIP": [
+            "doi",
+            "https://doi.org/10.1109/TIP",
+            "该链接指向的数据集“10.1109/TIP.2021.3127849”与自动结算系统中的通用对抗补丁攻击有关，旨在研究如何利用感知与注意力偏置生成对抗性图像，从而欺骗图像识别模型。"
+        ]
+    },
+    "7870_A_Benchmark_for_Learning_": {
+        "abs_2202.07785": [
+            "arxiv",
+            "https://arxiv.org/abs/2202.07785",
+            "链接 https://arxiv.org/abs/2202.07785 指向的论文是《Predictability and Surprise in Large Generative Models》，它探讨了大型生成模型在面对不同输入时的可预测性与意外性。\n\n一句话简要描述：  \n该数据集用于分析大型语言模型在生成文本时的预测行为与偏差，评估其对输入的响应是否符合预期。"
+        ],
+        "abs_2302": [
+            "arxiv",
+            "https://arxiv.org/abs/2302",
+            "链接 https://arxiv.org/abs/2302.07856 指向的论文是《Dictionary-based Phrase-level Prompting of Large Language Models for Machine Translation》，其提出了一种基于词典的短语级提示方法，旨在提升大语言模型在机器翻译任务中的表现。\n\n一句话简要描述：  \n该数据集支持一种利用词典短语提示改进大语言模型机器翻译性能的方法研究。"
+        ],
+        "arxiv": [
+            "arxiv",
+            "https://arxiv",
+            "“arXiv”是一个开放获取的预印本平台，主要用于发布尚未经过同行评审的科研论文，涵盖物理学、计算机科学、数学等多个学科领域。"
+        ],
+        "abs_1705.07267": [
+            "arxiv",
+            "https://arxiv.org/abs/1705.07267",
+            "该链接（https://arxiv.org/abs/1705.07267）对应的论文是“Search Engine Guided Non-Parametric Neural Machine Translation”，其描述的数据集用于研究将搜索引擎检索到的双语句子作为外部记忆，辅助神经机器翻译系统以提高翻译质量。\n\n一句话描述：该数据集用于支持一种结合搜索引擎检索和神经机器翻译的非参数方法，提升机器翻译性能。"
+        ],
+        "articles_sdata2018205": [
+            "www",
+            "https://www.nature.com/articles/sdata2018205",
+            "该链接指向的数据集“articles_sdata2018205”主要用于促进跨语言数据的标准化与共享，支持语言比较研究。"
+        ],
+        "abs_2305.15425": [
+            "arxiv",
+            "https://arxiv.org/abs/2305.15425",
+            "该链接（https://arxiv.org/abs/2305.15425）指向的论文是《Language model tokenizers introduce unfairness between languages》，其研究内容是分析语言模型中的分词器如何在不同语言之间引入不公平性。\n\n一句话简要描述：  \n该数据集用于研究语言模型的分词器在不同语言中表现出的不公平性问题。"
+        ],
+        "abs_2305.13516": [
+            "arxiv",
+            "https://arxiv.org/abs/2305.13516",
+            "该链接（https://arxiv.org/abs/2305.13516）指向的数据集来自论文“Scaling Speech Technology to 1,000+ Languages”，该研究旨在构建和扩展支持超过1000种语言的语音识别和语音技术资源。\n\n简要描述：这是一个用于发展多语言语音识别系统的大规模语音数据集，覆盖超过1000种语言。"
+        ],
+        "abs_2203": [
+            "arxiv",
+            "https://arxiv.org/abs/2203",
+            "链接 https://arxiv.org/abs/2203.15556 指向的论文是《Training Compute-Optimal Large Language Models》，主要研究如何在给定计算资源预算下训练性能最优的大规模语言模型，因此该数据集/研究主要是关于“在计算资源约束下训练最优大型语言模型的方法和策略”。"
+        ],
+        "muse": [
+            "muse",
+            "https://muse.jhu.edu/",
+            "这个链接（https://muse.jhu.edu/article/858589）指向的是发表在《Oceanic Linguistics》期刊上的一篇语言学研究文章，\"The Greater West Bomberai language family\"，而“MUSE”是指 Project MUSE，是一个学术期刊平台，不是数据集本身。因此，该链接不是指向一个机器学习用的数据集，而是一个关于语言家族的学术论文资源。\n\n简要描述：该“MUSE”链接指向的是关于Greater West Bomberai语言家族的语言学研究论文，而非机器学习数据集。"
+        ],
+        "abs_2305.11938": [
+            "arxiv",
+            "https://arxiv.org/abs/2305.11938",
+            "该链接（https://arxiv.org/abs/2305.11938）指向的论文介绍了“XTREME-UP”数据集，这是一个面向用户、关注低资源语言的多语言基准，用于评估在低资源或少样本条件下的自然语言处理系统性能。  \n\n一句话描述：XTREME-UP 是一个专为低资源语言设计的多语言NLP基准数据集，旨在评估模型在稀缺数据条件下的表现。"
+        ],
+        "opendetex": [
+            "git",
+            "https://github.com/pkubowicz/opendetex",
+            "该链接指向的数据集 \"opendetex\" 是一个用于从 LaTeX 文档中提取纯文本内容的工具。"
+        ],
+        "nlpretext": [
+            "nlpretext",
+            "https://nlpretext.readthedocs.io/",
+            "“nlpretext” 是一个用于文本预处理的工具库，主要功能是对自然语言文本进行清洗、规范化和结构化处理，为后续的 NLP 任务做好准备。"
+        ],
+        "abs_2307.09288": [
+            "arxiv",
+            "https://arxiv.org/abs/2307.09288",
+            "链接中的“abs_2307.09288”指的是论文《LLaMA 2: Open Foundation and Fine-Tuned Chat Models》，该论文介绍了LLaMA 2系列开源大语言模型，涵盖其预训练和微调方法、模型架构及在多项自然语言处理任务中的性能表现。\n\n一句话描述：  \nLLaMA 2 是一组开源的大语言模型，旨在通过预训练和对话微调支持各种自然语言理解与生成任务。"
+        ],
+        "NousResearch_Nous-Hermes-llama-2-7b": [
+            "huggingface",
+            "https://huggingface.co/NousResearch/Nous-Hermes-llama-2-7b",
+            "“NousResearch/Nous-Hermes-llama-2-7b” 是一个在 LLaMA 2 7B 模型基础上微调得到的大语言模型，旨在提升其对话生成和指令跟随能力。"
+        ],
+        "abs_2211.04325": [
+            "arxiv",
+            "https://arxiv.org/abs/2211.04325",
+            "该链接（https://arxiv.org/abs/2211.04325）对应的论文是《Will we run out of data? An analysis of the limits of scaling datasets in machine learning》，其主要分析了大规模机器学习模型在未来可能面临的数据资源瓶颈问题，因此该数据集或研究主要用于探讨训练数据在继续扩展模型规模时的可持续性。\n\n一句话描述：  \n该论文研究了机器学习训练数据的增长趋势及其极限，评估未来大模型训练中数据是否会成为瓶颈。"
+        ],
+        "abs_2212.07677": [
+            "arxiv",
+            "https://arxiv.org/abs/2212.07677",
+            "链接 https://arxiv.org/abs/2212.07677 对应的论文是《Transformers Learn In-Context by Gradient Descent》，主要研究Transformer模型在不显式更新参数的情况下，如何通过上下文学习完成新任务。\n\n一句话简要描述：  \n该论文使用合成数据集研究了Transformer模型如何通过上下文模拟梯度下降，从而实现类梯度学习的行为。"
+        ],
+        "abs_2203.09435": [
+            "arxiv",
+            "https://arxiv.org/abs/2203.09435",
+            "该链接（https://arxiv.org/abs/2203.09435）对应的论文是《Expanding Pretrained Models to Thousands More Languages via Lexicon-Based Adaptation》，其数据集主要用于通过词典（lexicon）资源，将预训练语言模型扩展到更多低资源语言。\n\n一句话简要描述：该数据集用于支持将预训练语言模型扩展到成千上万种语言，特别是低资源语言，通过词典驱动的适配方法。"
+        ],
+        "NousResearch_Nous-Hermes-Llama2-13b": [
+            "huggingface",
+            "https://huggingface.co/NousResearch/Nous-Hermes-Llama2-13b",
+            "“NousResearch/Nous-Hermes-Llama2-13b” 是一个基于 Llama 2-13B 模型微调的开源大型语言模型，主要用于提升对话生成任务中的语言理解与生成能力。"
+        ],
+        "stabilityai_StableBeluga2": [
+            "huggingface",
+            "https://huggingface.co/stabilityai/StableBeluga2",
+            "链接 https://huggingface.co/stabilityai/StableBeluga2 指向的是由 Stability AI 发布的一个开源大语言模型（LLM），名为 StableBeluga2。\n\n一句话简要描述：StableBeluga2 是一个经过微调的开源大语言模型，旨在用于自然语言理解和生成任务。"
+        ],
+        "spaces_HuggingFaceH4_open_llm_leaderboard": [
+            "huggingface",
+            "https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard",
+            "该链接指向的数据集 \"spaces/HuggingFaceH4/open_llm_leaderboard\" 是一个用于评估和比较开源大语言模型性能的排行榜平台。"
+        ],
+        "docs_model-index-for-researchers": [
+            "platform",
+            "https://platform.openai.com/docs/model-index-for-researchers",
+            "这个链接指向的数据集“docs_model-index-for-researchers”大致是用于为研究人员提供不同OpenAI模型的索引信息，包括各模型的能力、限制、适用场景等。"
+        ]
+    },
+    "6602_LIDAO_Towards_Limited_Int": {
+        "conversationai": [
+            "git",
+            "https://github.com/conversationai/",
+            "“conversationai” 是一个由 Google Jigsaw 提供的项目，主要用于检测和分析在线对话中的有害内容，例如毒性言论、侮辱或仇恨言论。"
+        ]
+    },
+    "8128_PrE_Text_Training_Languag": {
+        "api": [
+            "api",
+            "https://api.semanticsc",
+            "该链接（https://api.semanticscholar.org/CorpusID:263829949）指向的是一篇论文的语义学术（Semantic Scholar）API资源，提供关于该论文的元数据，并不直接指向数据集；因此，它的作用是用于获取论文的相关信息，如标题、作者、引用等。"
+        ],
+        "paper": [
+            "proceedings",
+            "https://proceedings.neurips.cc/paper",
+            "该链接（https://proceedings.neurips.cc/paperfiles/paper/2020/file/fef6f971605336724b5e6c0c12dc2534-Paper.pdf）指向的是一篇名为《Distributed Distillation for On-Device Learning》的论文，论文提出了一种分布式蒸馏方法，用于在设备端进行高效的机器学习模型训练。\n\n一句话简要描述：  \n该论文提出了一种分布式知识蒸馏方法，用于在不集中原始数据的情况下实现设备端高效模型学习。"
+        ],
+        "PrE-Text": [
+            "git",
+            "https://github.com/houcharlie/PrE-Text",
+            "“PrE-Text”是一个用于生成差分隐私（Differential Privacy, DP）合成文本数据的数据集和方法，旨在在保护用户隐私的前提下，提升小型和大型语言模型的训练效果。"
+        ],
+        "global": [
+            "www",
+            "https://www.speedtest.net/global",
+            "该链接（https://www.speedtest.net/global-index/united-states）指向的是Speedtest.net提供的“Global Index”，它是一个全球互联网速度排名和统计数据集，用于展示不同国家和地区的网络速度表现。\n\n简要描述：  \n“Global”数据集用于展示全球各国互联网连接的速度统计和排名情况。"
+        ],
+        "federa": [
+            "git",
+            "https://github.com/tensorflow/federa",
+            "该链接指向的数据集“federa”来自 TensorFlow Federated 项目，它主要用于研究和开发联邦学习（Federated Learning）系统。简要描述如下：\n\n“federa” 是用于支持联邦学习研究的开源框架和示例数据集，旨在模拟分布式机器学习场景。"
+        ],
+        "www": [
+            "www",
+            "https://www.re",
+            "该链接指向的数据集“https://github.com/tatsu-lab/stanford_alpaca”是关于一个名为Stanford Alpaca的项目，它是一个在LLaMA语言模型基础上，通过指令微调（instruction tuning）训练得到的指令跟随（instruction-following）模型。"
+        ],
+        "tech_a": [
+            "www",
+            "https://www.wsj.com/tech/a",
+            "该链接（\"https://www.wsj.com/tech/ai/ai-training-data-synthetic-openai-anthropic-9230f8d8\"）指向的是一篇《华尔街日报》的文章，讨论了AI公司在训练大模型时对数据的巨大需求，以及由于网络上高质量数据不足，越来越多使用合成数据的趋势。因此，“tech_a”并不是一个具体的数据集名称，而是网页路径中的一部分。\n\n简要描述：  \n该链接内容讨论了AI公司为训练大模型而寻求合成数据以弥补真实网络数据不足的现象。"
+        ]
+    },
+    "8600_AMAGO_Scalable_In_Context": {
+        "amago": [
+            "ut-austin-rpl",
+            "https://ut-austin-rpl.github.io/amago/",
+            "该链接指向的“amago”数据集和代码主要用于研究和实现基于Transformer的上下文强化学习（in-context RL）方法，旨在评估智能体在多任务环境中长期记忆和适应能力。"
+        ]
+    },
+    "8695_QuRating_Selecting_High_Q": {
+        "doi": [
+            "doi",
+            "https://doi.org/",
+            "该链接（https://doi.org/10.24432/C5CC84）指向的数据集是“SMS Spam Collection”，这是一个用于短信垃圾分类任务的数据集，包含标注为“垃圾短信”或“正常短信”的真实短信文本。"
+        ],
+        "QuRating": [
+            "git",
+            "https://github.com/princeton-nlp/QuRating",
+            "QuRating 是一个用于评估文本抽象质量（如写作风格、事实含量、教育价值和理解所需专业水平）并据此筛选语言模型预训练数据的数据集。"
+        ],
+        "10.24432_C5CC84": [
+            "doi",
+            "https://doi.org/10.24432/C5CC84",
+            "这个链接指向的数据集“10.24432/C5CC84”是UCI提供的SMS Spam Collection数据集，主要用于短信垃圾邮件分类任务。"
+        ],
+        "v202": [
+            "proceedings",
+            "https://proceedings.mlr.press/v202/",
+            "该链接（https://proceedings.mlr.press/v202/korbak23a.html）指向的是ICML 2023会议论文集中的一篇论文，论文标题为“QuRating: Selecting High-Quality Data for Training Language Models”，其主要涉及如何基于人类偏好筛选高质量数据用于语言模型的预训练。\n\n一句话描述：  \n该数据集用于研究如何基于人类偏好评分选择高质量文本，以提升语言模型的预训练效果。"
+        ],
+        "aclanthology": [
+            "aclanthology",
+            "https://aclanthology.org/",
+            "“aclanthology”是一个由计算语言学协会维护的学术论文数据库，主要收录自然语言处理（NLP）领域的会议和期刊论文。它提供论文的全文访问及相关资源链接，包括用于研究的数据集。"
+        ],
+        "D19-1250": [
+            "aclanthology",
+            "https://aclanthology.org/D19-1250",
+            "链接“https://aclanthology.org/D19-1250” 指向的是论文《Language Models as Knowledge Bases?》，该论文探讨了预训练语言模型是否能够作为事实性知识库使用，并引入了一个名为LAMA（LAnguage Model Analysis）的评估框架，用于测试语言模型对结构化知识的记忆能力。\n\n**简要描述**：LAMA数据集用于评估语言模型在无监督条件下回忆事实性知识的能力。"
+        ],
+        "10.5281_zenodo.5371628": [
+            "doi",
+            "https://doi.org/10.5281/zenodo.5371628",
+            "该链接指向的数据集“10.5281/zenodo.5371628”是一个用于小样本学习（few-shot learning）语言模型评估的框架，主要用于系统地评估语言模型在多种任务和设置下的性能。"
+        ],
+        "blog": [
+            "www",
+            "https://www.cerebras.net/blog/",
+            "该链接指向的“blog”页面介绍了SlimPajama数据集，这是一个对RedPajama语料进行清洗和去重后得到的大规模（627B个token）文本数据集，旨在用于语言模型的预训练研究。"
+        ],
+        "proceedings": [
+            "proceedings",
+            "https://proceedings.neurips.cc/",
+            "这个链接指向的数据集（https://proceedings.neurips.cc/paper_files/paper/2023/file/a8f8cbd7f7a5fb2c837e578c75e5b615-Paper-Datasets%20and%20Benchmarks.pdf）描述了D4项目，其主要用于通过文档去重和多样化来改进大规模语言模型的预训练语料。"
+        ],
+        "api": [
+            "api",
+            "https://api.semanticscholar.org/",
+            "该链接（https://api.semanticscholar.org/CorpusID:203626972）指向的是 Semantic Scholar 上 DistilBERT 论文的数据条目，用于提供关于 DistilBERT 模型的元信息和引用数据，因此该“api”主要用于访问和检索与 DistilBERT 相关的学术元数据。"
+        ],
+        "openreview": [
+            "openreview",
+            "https://openreview.net/",
+            "这个链接指向的数据集“openreview”来自RefinedWeb 数据集的论文页面，是用于介绍和评审该数据集的学术平台页面，主要用于展示RefinedWeb数据集的内容和评估结果。\n\n一句话描述：OpenReview 上的链接用于展示 RefinedWeb 数据集的详细信息和评审过程，这是一个仅基于网页数据构建的大规模语言模型训练数据集。"
+        ],
+        "r_pa_prs_ps_2017_09": [
+            "www",
+            "https://www.state.gov/r/pa/prs/ps/2017/09",
+            "该链接（https://www.state.gov/r/pa/prs/ps/2017/09/274518.htm）指向的是美国国务院于2017年9月发布的新闻声明页面，内容涉及美国政府对在古巴发生的“声波攻击事件”的官方立场和回应。\n\n一句话描述：  \n该数据集条目是一份美国国务院关于2017年古巴“声波攻击”事件的官方新闻声明。"
+        ],
+        "togethercomputer": [
+            "git",
+            "https://github.com/togethercomputer/",
+            "“togethercomputer”链接指向的RedPajama数据集项目，旨在开源复现LLaMA预训练语料，是一个用于大规模语言模型预训练的数据集构建方案。"
+        ],
+        "datasets": [
+            "huggingface",
+            "https://huggingface.co/datasets/",
+            "该链接指向的数据集“cerebras/SlimPajama-627B”是一个清洗和去重后的大型文本语料库，主要用于大规模语言模型的预训练研究。"
+        ]
+    },
+    "8697_On_the_Role_of_Discrete_T": {
+        "ClusterMIM": [
+            "git",
+            "https://github.com/PKU-ML/ClusterMIM",
+            "“ClusterMIM”是一个用于自监督学习中掩码图像建模（MIM）任务的框架，旨在通过聚类优化离散token的效果，从而提高模型的表示学习能力。"
+        ]
+    },
+    "8714_Efficient_Inverse_Multiag": {
+        "jax": [
+            "git",
+            "http://github.com/google/jax",
+            "这个链接指向的“jax”是一个用于高性能数值计算的库，支持可组合的函数变换，常用于机器学习模型的构建与优化。"
+        ]
+    },
+    "8880_Improving_Generalization_": {
+        "ShareGPT": [
+            "huggingface",
+            "https://huggingface.co/datasets/anon8231489123/ShareGPT",
+            "“ShareGPT” 数据集大致是用于对话系统训练和评估的，包含从用户与大型语言模型（如ChatGPT或Vicuna）之间的实际对话中收集的示例。"
+        ],
+        "hh-rlhf": [
+            "huggingface",
+            "https://huggingface.co/datasets/Anthropic/hh-rlhf",
+            "“hh-rlhf” 数据集是由 Anthropic 发布的一个用于训练和评估人类偏好对齐模型的数据集，包含对话样本及其人类偏好标注。"
+        ],
+        "PKU-SafeRLHF": [
+            "huggingface",
+            "https://huggingface.co/datasets/PKU-Alignment/PKU-SafeRLHF",
+            "“PKU-SafeRLHF” 是一个用于安全强化学习人类反馈（Safe Reinforcement Learning from Human Feedback, Safe-RLHF）研究的数据集，旨在支持训练和评估具备安全性和泛化能力的语言模型。"
+        ],
+        "cnn": [
+            "huggingface",
+            "https://huggingface.co/datasets/cnn",
+            "这个链接指向的“cnn dailymail”数据集是一个用于文本摘要任务的数据集，包含CNN和Daily Mail新闻文章及其对应的摘要。"
+        ]
+    },
+    "9651_DRCT_Diffusion_Reconstruc": {
+        "api": [
+            "api",
+            "https://api.semanticscholar",
+            "这个链接指向的“api.semanticscholar.org”是Semantic Scholar的语义学术论文API接口，主要用于通过CorpusID访问论文的元数据信息（如标题、作者、摘要等），并不直接提供数据集下载。"
+        ],
+        "github": [
+            "github",
+            "https://github",
+            "这个链接（https://github.com/huggingface/diffusers）指向的是 Hugging Face 提供的 Diffusers 库，它是一个用于实现和使用扩散模型（Diffusion Models）的开源工具库，广泛应用于图像生成等任务。\n\n一句话简要描述：  \nDiffusers 是一个用于构建和部署扩散模型的开源库，支持图像生成等生成式人工智能任务。"
+        ],
+        "DRCT": [
+            "git",
+            "https://github.com/beibuwandeluori/DRCT",
+            "该链接指向的数据集“DRCT”用于评估AI生成图像检测方法的泛化能力，包含由16种扩散模型生成的图像，规模达百万级。"
+        ]
+    },
+    "8867_Deceptive_Fairness_Attack": {
+        "deeprobust": [
+            "deeprobust",
+            "https://deeprobust.readthedocs.io/",
+            "“Deeprobust” 是一个用于图神经网络鲁棒性研究的工具库，主要用于评估和提升图上模型在对抗攻击下的稳健性。"
+        ],
+        "FATE": [
+            "git",
+            "https://github.com/jiank2/FATE",
+            "该链接指向的“FATE”项目是一个用于研究图神经网络中公平性攻击（Fairness Attack）的方法，旨在通过对图结构的扰动评估模型在统计公平性和个体公平性方面的鲁棒性。"
+        ],
+        "attack-gnn-fairness": [
+            "git",
+            "https://github.com/mengcao327/attack-gnn-fairness",
+            "该链接指向的数据集“attack-gnn-fairness”用于研究在图神经网络（GNN）中对公平性攻击的效果，旨在评估和提升GNN模型在面对对抗性扰动时的公平性鲁棒性。"
+        ]
+    },
+    "9539_Failures_Are_Fated_But_Ca": {
+        "github": [
+            "github",
+            "https://github",
+            "这个 GitHub 链接（https://github.com/somsagar07/FailureShiftRL）指向的是一个利用深度强化学习来探索和重构预训练模型失败模式的项目，用于分析并改善模型在计算机视觉、自然语言处理等任务中的鲁棒性。\n\n简要描述：该项目通过深度强化学习识别并缓解预训练模型的失败模式，以提升模型在多任务下的稳健性。"
+        ],
+        "huggingface": [
+            "git",
+            "https://github.com/huggingface/",
+            "这个链接指向的“huggingface”是一个用于自然语言处理任务的开源库，提供了大量预训练的Transformer模型和工具。"
+        ]
+    },
+    "8983_Evaluation_of_LLMs_on_Syn": {
+        "github": [
+            "github",
+            "https://github",
+            "这个 GitHub 链接（https://github.com/gonglinyuan/safim）指向的数据集 SAFIM 是一个用于评估代码补全任务中大语言模型（LLMs）性能的多语言、语法感知的基准数据集。"
+        ],
+        "codeforces": [
+            "codeforces",
+            "https://codeforces.com/",
+            "Codeforces 数据集包含编程竞赛中的问题与解决方案，用于评估和训练代码生成与补全任务中的模型能力。"
+        ],
+        "abs_2103.06333": [
+            "arxiv",
+            "http://arxiv.org/abs/2103.06333",
+            "该链接指向的数据集“abs_2103.06333”主要用于程序理解和代码生成任务，旨在通过统一的预训练方法提升模型在软件工程相关任务中的表现。"
+        ],
+        "www": [
+            "www",
+            "https://www.gharchive.org/",
+            "链接 https://codeforces.com/ 指向 Codeforces 数据集来源网站，这是一个在线竞技编程平台，提供大量编程题目及用户提交的解决方案。"
+        ],
+        "safimbenchmark": [
+            "safimbenchmark",
+            "https://safimbenchmark.com",
+            "“safimbenchmark” 是一个用于评估大语言模型在代码补全任务中表现的数据集和工具包，特别关注在已有代码基础上进行插入和修改的能力。"
+        ],
+        "abs_2208": [
+            "arxiv",
+            "http://arxiv.org/abs/2208",
+            "该链接指向的数据集“abs_2208”来自论文《MultiPL-E: A scalable and extensible approach to benchmarking neural code generation》，这是一个用于多编程语言代码生成任务的基准数据集，旨在评估神经网络模型在多种编程语言上的代码生成能力。"
+        ],
+        "arxiv": [
+            "arxiv",
+            "http://arxiv.org/",
+            "这些链接指向的“arXiv”是一个开放获取的预印本平台，主要用于发布尚未经过同行评审的科研论文，涵盖计算机科学、人工智能、数学、物理等多个领域。"
+        ],
+        "abs_1810": [
+            "arxiv",
+            "http://arxiv.org/abs/1810",
+            "链接中的“abs_1810”指的是论文编号 arXiv:1810.04805，对应的论文是 Devlin 等人提出的 BERT 模型。该论文介绍了 BERT（Bidirectional Encoder Representations from Transformers）模型及其在大规模语料上的预训练方法，用于提升自然语言理解任务的表现。\n\n简要描述：  \n“abs_1810”对应的数据集用于训练 BERT 模型，旨在通过大规模无监督文本语料提升自然语言理解能力。"
+        ],
+        "abs_2103": [
+            "arxiv",
+            "http://arxiv.org/abs/2103",
+            "该链接“abs_2103”指向的是论文《GLM: General Language Model Pretraining with Autoregressive Blank Infilling》（arXiv:2103.10360），其提出了一种通用语言模型预训练方法，核心是使用自回归的空白填充任务。\n\n一句话简要描述：  \nGLM 数据集用于训练通用语言模型，通过自回归空白填充任务提升对自然语言的理解和生成能力。"
+        ],
+        "2021": [
+            "aclanthology",
+            "https://aclanthology.org/2021",
+            "该链接（https://arxiv.org/abs/2107.03374）指向的论文是《Evaluating Large Language Models Trained on Code》，该论文介绍了Codex模型，并提出了HumanEval数据集，用于评估代码生成模型的编程能力。\n\n一句话简要描述：该数据集用于评估大语言模型在生成正确、可执行代码方面的能力，特别是通过编程题目来测试模型的函数生成准确性。"
+        ],
+        "abs_2401": [
+            "arxiv",
+            "http://arxiv.org/abs/2401",
+            "链接“http://arxiv.org/abs/2401.03003”指向的是论文《AST-T5: Structure-aware pretraining for code generation and understanding》，该论文提出了一种结构感知的预训练方法，用于代码生成与理解任务。\n\n一句话简要描述：  \n“abs_2401”对应的数据集用于支持结构感知的代码生成和理解模型的预训练，融合了抽象语法树（AST）信息以提升模型对代码结构的理解能力。"
+        ],
+        "abs_2303": [
+            "arxiv",
+            "http://arxiv.org/abs/2303",
+            "根据提供的链接和上下文，“abs_2303”指的是论文 arXiv:2303.03593，对应的数据集或项目名称为ADELT。根据论文标题“ADELT: Transpilation between deep learning frameworks”，可以判断该项目主要涉及深度学习框架之间的代码转换。\n\n一句话描述：  \nADELT 是一个用于实现不同深度学习框架之间代码互转的工具或数据集。"
+        ],
+        "abs_2306": [
+            "arxiv",
+            "http://arxiv.org/abs/2306",
+            "链接 http://arxiv.org/abs/2306.11644 指向的论文是《Textbooks are all you need》，该论文提出了一种使用类教材数据对大型语言模型进行训练的方法，因此其相关数据集主要用于以教材风格的数据训练语言模型，以提升模型在理解和推理方面的能力。\n\n一句话描述：  \n“abs_2306”关联的数据集用于通过教材风格的数据训练大型语言模型，以增强其理解和推理能力。"
+        ],
+        "abs_2112": [
+            "arxiv",
+            "http://arxiv.org/abs/2112",
+            "该链接指向的数据集“abs_2112”（Jigsaw）主要用于程序合成任务，旨在评估和提升大型语言模型在根据自然语言描述自动生成程序方面的能力。"
+        ],
+        "abs_2310": [
+            "arxiv",
+            "http://arxiv.org/abs/2310",
+            "该链接（arXiv:2310.06770）指向的数据集“SWE-Bench”是用于评估语言模型解决真实世界 GitHub 问题能力的基准数据集。"
+        ],
+        "abs_2211": [
+            "arxiv",
+            "http://arxiv.org/abs/2211",
+            "该链接（http://arxiv.org/abs/2211.15533）对应的数据集“The Stack”是一个包含3TB、具有宽松许可协议的源代码数据集，主要用于支持大规模代码预训练模型的研究与开发。"
+        ],
+        "abs_2203.07814": [
+            "arxiv",
+            "http://arxiv.org/abs/2203.07814",
+            "链接“http://arxiv.org/abs/2203.07814”指向的是 AlphaCode 项目的论文，该项目由 DeepMind 开发，旨在训练能够在编程竞赛中表现出人类水平的代码生成模型。\n\n简要描述：  \nAlphaCode 数据集用于训练和评估能够解决编程竞赛问题的代码生成模型。"
+        ],
+        "abs_2303.08774": [
+            "arxiv",
+            "http://arxiv.org/abs/2303.08774",
+            "链接“http://arxiv.org/abs/2303.08774”指向的是 OpenAI 发布的 GPT-4 技术报告，该报告介绍了 GPT-4 模型的架构、训练方法、能力评估等内容。\n\n一句话简要描述：  \n这个链接指向的 GPT-4 技术报告介绍了一个多模态大语言模型的设计与能力，用于理解和生成文本（以及图像）的任务。"
+        ],
+        "abs_2203": [
+            "arxiv",
+            "http://arxiv.org/abs/2203",
+            "链接中的“abs_2203”指代的是论文 arXiv:2203.02155《Training language models to follow instructions with human feedback》，该论文主要介绍了通过人类反馈（Human Feedback）训练语言模型（如 InstructGPT）的方法，因此其相关数据集主要用于训练语言模型以更好地遵循人类指令。\n\n一句话描述：  \n该数据集用于通过人类反馈对语言模型进行指令微调训练，以提升模型对用户指令的理解与响应能力。"
+        ],
+        "abs_1910": [
+            "arxiv",
+            "http://arxiv.org/abs/1910",
+            "链接中的数据集 “abs_1910” 实际指的是论文 “Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer”（arXiv:1910.10683），该论文介绍了 T5（Text-to-Text Transfer Transformer）模型，它将各种NLP任务统一为文本到文本的格式，并在多个基准数据集上进行了评估。\n\n一句话简要描述：  \n“abs_1910” 所指的是 T5 模型及其用于统一处理多种自然语言处理任务的大规模文本到文本预训练数据集。"
+        ],
+        "abs_2206": [
+            "arxiv",
+            "http://arxiv.org/abs/2206",
+            "该链接 http://arxiv.org/abs/2206.12839 指向的论文是《Repository-level prompt generation for large language models of code》，其研究的是如何为代码大模型生成仓库级别的提示（prompts）以更好地理解和生成代码内容。\n\n一句话描述：  \n该数据集用于研究如何自动生成针对整代码仓库的提示，以提升大语言模型在代码理解和生成任务中的表现。"
+        ],
+        "abs_2212": [
+            "arxiv",
+            "http://arxiv.org/abs/2212",
+            "链接所指向的论文是 “Execution-based evaluation for open-domain code generation”（arXiv:2212.10481），该论文提出了一种基于执行的评估方法，用于更准确地评估开放领域代码生成模型的性能。\n\n简要描述：  \n该数据集用于通过代码执行结果来评估开放领域代码生成模型的正确性。"
+        ],
+        "abs_2312": [
+            "arxiv",
+            "http://arxiv.org/abs/2312",
+            "链接中的“abs_2312”指的是论文《Magicoder: Source code is all you need（arXiv:2312.02120）》，该论文提出了一个专注于代码生成任务的大规模语言模型 Magicoder，并伴随提供了相关的数据集用于源代码建模和生成。  \n\n简要描述：  \n“abs_2312”对应的数据集主要用于训练和评估专注于源代码理解与生成的大规模语言模型。"
+        ],
+        "abs_2202": [
+            "arxiv",
+            "http://arxiv.org/abs/2202",
+            "该链接（arXiv:2202.13169）指向的数据集“abs_2202”主要用于系统性评估大型语言模型在代码生成和理解任务中的性能。"
+        ],
+        "abs_2311": [
+            "arxiv",
+            "http://arxiv.org/abs/2311",
+            "链接中的“abs_2311”对应论文 arXiv:2311.04850，标题为《Rethinking Benchmark and Contamination for Language Models with Rephrased Samples》。该论文主要探讨如何通过改写（rephrasing）样本来评估大语言模型对训练数据污染（data contamination）的敏感性，并重新思考基准评测的有效性。\n\n一句话简要描述：  \n“abs_2311”对应的数据集用于通过改写样本来评估语言模型对数据污染的鲁棒性和泛化能力。"
+        ],
+        "blog_openai-api": [
+            "openai",
+            "https://openai.com/blog/openai-api",
+            "该链接指向的数据集“blog_openai-api”实际上是 OpenAI 官方博客中介绍 OpenAI API 的页面，主要用于展示如何使用 OpenAI 提供的 API 进行语言模型调用和集成。"
+        ],
+        "problemset_problem_1678_B1": [
+            "codeforces",
+            "https://codeforces.com/problemset/problem/1678/B1",
+            "这个链接指向的数据集“problemset_problem_1678_B1”来自编程竞赛平台 Codeforces，主要用于算法练习，要求参赛者编写代码解决特定的逻辑问题。"
+        ],
+        "transformers": [
+            "git",
+            "https://github.com/huggingface/transformers",
+            "“transformers” 是 Huggingface 提供的一个用于自然语言处理任务的开源库，支持多种预训练模型的加载、训练与推理。"
+        ]
+    },
+    "9692_Position_Understanding_LL": {
+        "abs": [
+            "arxiv",
+            "http://arxiv.org/abs/",
+            "链接中的“abs”部分（例如：http://arxiv.org/abs/1703.04933）并不是指一个数据集，而是指向arXiv上的论文摘要页面（\"abs\"为\"abstract\"的缩写），用于展示论文的标题、作者、摘要和下载链接等信息。  \n\n简要描述：该链接指向的是arXiv上的论文摘要页面，而非具体的数据集。"
+        ],
+        "v9": [
+            "proceedings",
+            "https://proceedings.mlr.press/v9/",
+            "该链接（https://proceedings.mlr.press/v9/）指向的是2010年在意大利撒丁岛举办的第13届人工智能与统计学会议（AISTATS 2010）的论文集，包含多个与机器学习和统计方法相关的研究论文，因此该“v9”数据集主要用于提供AISTATS 2010会议论文的访问与引用。"
+        ],
+        "ref_id": [
+            "ebooks",
+            "http://ebooks.cambridge.org/ref/id/",
+            "链接 http://ebooks.cambridge.org/ref/id/CBO9780511803161 指向的是 Judea Pearl 所著的《Causality: Models, Reasoning, and Inference》一书的电子版，而非具体的数据集。\n\n一句话简要描述：该链接指向的是一本关于因果推理与建模的学术著作，用于支撑理解因果关系在人工智能中的应用，而非一个实际的数据集。"
+        ],
+        "papers_v22": [
+            "jmlr",
+            "http://jmlr.org/papers/v22/",
+            "该链接（http://jmlr.org/papers/v22/20-879.html）指向的是一篇关于神经网络更严格风险证明的研究论文，其所涉及的数据集“papers_v22”来自《Journal of Machine Learning Research》第22卷，用于支持该研究中的理论分析和实验评估。\n\n简要描述：  \n“papers_v22”是一个用于研究神经网络泛化性能和风险证明的理论与实验性数据集。"
+        ],
+        "": [
+            "git",
+            "https://github.com/",
+            "该链接（https://arxiv.org/abs/2009.05552）指向的论文是关于 GSCAN（Grounded SCAN）数据集的，该数据集用于研究神经网络在语言指导下的系统性泛化能力。\n\n一句话简要描述：GSCAN 是一个用于评估模型在语言指令引导下系统性泛化能力的合成数据集。"
+        ],
+        "yoavg": [
+            "git",
+            "https://gist.github.com/yoavg/",
+            "该链接（https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81）指向的是由NLP专家Yoav Goldberg分享的一个Gist，主要内容是关于用于语言模型强化学习训练的一些实验设置或代码片段，可能包含用于教学或研究的小规模示例数据，因此它并不是一个标准的数据集，而更像是用于说明强化学习在语言模型训练中应用的参考资料。\n\n一句话简要描述：  \n该资源是Yoav Goldberg分享的一个用于语言模型强化学习研究的示例代码和实验说明，旨在帮助理解强化学习在NLP中的应用。"
+        ],
+        "proceedings": [
+            "proceedings",
+            "https://proceedings.neurips.cc/",
+            "该链接指向的“proceedings”数据集是机器学习领域顶级会议（如NeurIPS、ICML等）的论文集，用于汇集和公开发表相关研究成果。"
+        ],
+        "llm-non-identifiability": [
+            "git",
+            "https://github.com/rpatrik96/llm-non-identifiability",
+            "该链接指向的数据集“llm-non-identifiability”用于研究大语言模型在面对不可识别分布性质（non-identifiability）时的行为，尤其是在形式语言生成任务（如 anbn 的上下文无关文法）中的泛化能力和鲁棒性。"
+        ]
+    },
+    "9228_DenoiseRep_Denoising_Mode": {
+        "DenoiseRep": [
+            "git",
+            "https://github.com/wangguanan/DenoiseRep",
+            "“DenoiseRep” 是一个用于特征去噪和增强的无监督表示学习方法，旨在提升图像分类、目标检测、图像分割和行人重识别等视觉任务中的模型性能。"
+        ],
+        "public_EthicsGuidelines": [
+            "neurips",
+            "https://neurips.cc/public/EthicsGuidelines",
+            "该链接“https://neurips.cc/public/EthicsGuidelines”指向的是NeurIPS会议的伦理指南页面，主要用于指导研究人员在提交论文时遵守伦理规范和负责任的研究实践。"
+        ]
+    }
+}
